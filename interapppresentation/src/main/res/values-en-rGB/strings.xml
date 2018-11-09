@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aries_cancel_transaction_dialog">Are you sure you want to cancel this payment and go back to the merchant\'s site\?</string>
+    <string name="error_message">An error has occurred</string>
+    <string name="future_payment_consent_header">Future Payments Agreement:</string>
+    <string name="future_payment_consent_title">PayPal and %1$s ask that you:</string>
+    <string name="future_payment_consent_approval_bullet">• Authorise future payments made from your PayPal account without logging in to PayPal each time.</string>
+    <string name="future_payment_consent_approval_sub_bullet">PayPal will first use your PayPal balance to pay for purchases. If that doesn\'t cover the total, your bank account, PayPal Credit, debit card, credit card and/or eCheque will be used in that order.</string>
+    <string name="future_payment_consent_profile_sharing_bullet">• Share personal information</string>
+    <string name="future_payment_consent_merchant_bullet">• Agree to %1$s\'s &lt;a href="%2$s"&gt;privacy policy&lt;/a&gt; and &lt;a href="%3$s"&gt;user agreement&lt;/a&gt;.</string>
+    <string name="future_payment_consent_privacy">PayPal helps keep your financial information encrypted.</string>
+    <string name="future_payment_consent_privacy_details">To cancel this agreement, go to www.paypal.co.uk, &lt;b&gt;Profile &gt; My Settings &gt; Log In with PayPal&lt;/b&gt; and remove %1$s from the list.  A small authorisation may be required to make sure your PayPal account can be charged in the future. The authorisation will be voided and you won\'t be charged.</string>
+    <string name="top_up_complete">Yes! Top-up is complete.</string>
+    <string name="top_up_canceled">We\'re sorry. Top-up was cancelled.</string>
+</resources>

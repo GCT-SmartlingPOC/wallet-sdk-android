@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="deny">Deny</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="retry">Retry</string>
+
+    <string name="network_unavailable_title">We’re Sorry</string>
+    <string name="network_unavailable_message">No Internet connection</string>
+    <string name="network_unavailable_suggestion">Make sure your phone isn’t in Airplane mode and is connected to WiFi or cellular data.</string>
+
+    <string name="service_error_title">Sorry About the Wait</string>
+    <string name="service_error_message">Looks like we’re having trouble connecting you right now.</string>
+    <string name="service_error_suggestion">Please try again shortly.</string>
+
+    <string name="data_transaction_canceled_title">We’re sorry</string>
+    <string name="data_transaction_canceled_message">It looks like you canceled your request before we could complete it.</string>
+    <string name="data_transaction_canceled_suggestion">Do you want to try again?</string>
+
+    <string name="unknown_title">Sorry About That</string>
+    <string name="unknown_message">We’re having some trouble completing your request right now.</string>
+    <string name="unknown_suggestion">Please try again shortly, and if the problem persists let us know.</string>
+
+    <string name="secure_connection_required_title">For your security...</string>
+    <string name="secure_connection_required_message">It looks like the network you’re on isn’t secure. Connect to another, more secure one and try again.</string>
+    <string name="secure_connection_required_suggestion">Try Again.</string>
+</resources>

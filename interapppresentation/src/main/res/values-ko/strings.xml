@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aries_button_yes">예</string>
+    <string name="aries_button_no">아니요</string>
+    <string name="aries_cancel_transaction_dialog">이 구매를 취소하고 판매자 사이트로 돌아가시겠어요\?</string>
+    <string name="error_message">오류가 발생했습니다.</string>
+    <string name="future_payment_consent_header">향후 결제 동의</string>
+    <string name="future_payment_consent_title">%1$s에서 다음을 요청합니다.</string>
+    <string name="future_payment_consent_approval_bullet">•  향후 PayPal로 결제된 구매에 대한 이 앱의 청구를 승인합니다. PayPal에서 해당 금액을 모두 결제하도록 승인하고 지시합니다.</string>
+    <string name="future_payment_consent_approval_sub_bullet">먼저 PayPal 잔액을 사용하여 구매 금액을 결제합니다. 잔액이 부족할 경우에는 직불카드 또는 신용카드가 해당 주문에서 사용됩니다.</string>
+    <string name="future_payment_consent_profile_sharing_bullet">•  연락처 정보를 공유합니다.</string>
+    <string name="future_payment_consent_profile_sharing_sub_bullet">이름, 이메일 주소, 주소.</string>
+    <string name="future_payment_consent_merchant_bullet">•  %1$s의 &lt;a href="%2$s"&gt;개인정보 취급방침&lt;/a&gt;과 &lt;a href="%3$s"&gt;이용약관&lt;/a&gt;에 동의합니다.</string>
+    <string name="future_payment_consent_privacy">PayPal은 사용자의 금융 정보를 보호합니다.</string>
+    <string name="future_payment_consent_privacy_details">이러한 권한을 삭제하려면 PayPal 웹사이트에 로그인하고 &lt;b&gt;프로필 &gt; 사전 승인 결제 &gt; PayPal로 로그인&lt;/b&gt;으로 이동한 다음 목록에서 %1$s을(를) 삭제하세요.</string>
+    <string name="future_payment_consent_agree_button_title">동의</string>
+    <string name="future_payment_consent_decline_button_title">취소</string>
+    <string name="top_up_complete">예! 잔액 충전이 완료되었습니다!</string>
+    <string name="top_up_canceled">죄송합니다. 잔액 충전이 취소되었습니다!</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="compliance_upload_another_optional_button_text">Add More Documents (Optional)</string>
+    <string name="compliance_upload_evidence_type_photo_desc">Send us a clear photo of your driving licence, passport or government-issued ID card.</string>
+    <string name="compliance_upload_evidence_type_address_desc">Send us a clear photo of your utility bill, mobile phone bill or bank statement.</string>
+    <string name="compliance_tasks_overview_description">We need the information below to confirm your identity. It helps us keep your account more secure. Once we\'ve received your documents, we\'ll review them and get back to you in 2-3 working days.</string>
+    <string name="compliance_accessibility_progress_bar">Thanks. We\'ve received your document.</string>
+    <string name="compliance_document_post_upload_status_processing_message">We\'re reviewing your document now.</string>
+    <string name="compliance_document_post_upload_status_rejected">Your document wasn\'t approved </string>
+    <string name="compliance_document_post_upload_status_rejected_message">It looks like there was a problem on our end. Please try again.</string>
+    <string name="compliance_upload_status_initial_description">Your document is uploading. We\'ll notify you once we\'ve finished reviewing it.</string>
+    <string name="compliance_error_header">No internet connection</string>
+    <string name="compliance_error_message">Make sure your phone isn\'t in flight mode and is connected to Wi-Fi or mobile data.</string>
+    <string name="compliance_upload_error_message">It looks like something went wrong. Please try again.</string>
+    <string name="compliance_progress_bar_alert_message">Your document is still uploading…</string>
+    <string name="compliance_no_of_tasks_approved">Documents approved: %1$s</string>
+    <string name="compliance_rejected_reason_wrong_document">It looks like you may have sent us the wrong information.</string>
+    <string name="compliance_rejected_reason_not_requested_information">It looks like you may have sent us the wrong information.</string>
+    <string name="compliance_rejected_reason_not_legible">We\'re having trouble reviewing the document you sent. Could you please send a clearer photo of it\?</string>
+    <string name="compliance_rejected_reason_check_mail">We sent you an email with details as to why we couldn\'t approve your document.</string>
+    <string name="compliance_task_fetch_error_title">We\'re sorry about that</string>
+    <string name="compliance_task_fetch_error_message">It looks like something went wrong at our end. Please try again in a minute or two.</string>
+    <string name="compliance_rejected_reason_address_sub_text">It looks like you may have sent us the wrong information. Try again by sending us a clear photo of your utility bill, mobile phone bill or bank statement.</string>
+    <string name="compliance_rejected_reason_photo_id_sub_text">It looks like you may have sent us the wrong information. Try again by sending us a clear photo of your driving licence or government-issued ID card.</string>
+    <string name="compliance_rejected_reason_ssn_sub_text">It looks like you may have sent us the wrong information. Try again by sending us a clear photo of your Social Security card or pay stub.</string>
+    <string name="compliance_document_not_supported_message">Log in to your PayPal account on your computer to send us this information.</string>
+    <string name="compliance_webview_title">Confirm Your Identity</string>
+</resources>

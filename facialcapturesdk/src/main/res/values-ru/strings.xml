@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facialcapture_camera_permission_title">Причина разрешения</string>
+    <string name="facialcapture_camera_permission_rationale">Доступ к камере необходим, чтобы сделать фотографию вашего лица.</string>
+    <string name="facialcapture_auto_mode_tutorial_tts">Поместите лицо в овал и приготовьтесь моргнуть</string>
+    <string name="facialcapture_auto_mode_tutorial_button_text">Далее</string>
+    <string name="facialcapture_overlay_tts">Убедитесь, что на вас нет шляпы, шарфа, очков, а волосы не закрывают лицо. Моргните, когда будете готовы</string>
+    <string name="facialcapture_overlay_cancel_button">Отмена</string>
+    <string name="facialcapture_overlay_help_button">Справка</string>
+    <string name="facialcapture_timeout_tts">«Время вышло, не удалось сделать фотографию…». Вы хотите повторно сделать фотографию вручную или с помощью автоматической съемки\?</string>
+    <string name="facialcapture_timeout_message_1">Мы не получили фотографию вашего лица</string>
+    <string name="facialcapture_timeout_message_2">Поместите лицо в овал и сделайте нейтральное выражение лица. После этого моргните, когда будете готовы. \n\n Необходима четкая фотография лица без шляпы, очков или шарфа. Убедитесь, что ваши волосы не закрывают лицо.</string>
+    <string name="facialcapture_timeout_auto_capture">Автоматическая съемка</string>
+    <string name="facialcapture_timeout_manual_capture">Сделать фотографию вручную</string>
+    <string name="facialcapture_timeout_auto_capture_button_text">Повторите попытку</string>
+    <string name="facialcapture_timeout_manual_capture_button_text">Вручную</string>
+    <string name="facialcapture_auto_mode_help_tts">Сделайте следующее: поместите лицо, сделайте нейтральное выражение лица и моргните, когда будете готовы. Убедитесь также, что на вас нет шляпы, шарфа, очков, а ваши волосы не закрывают лицо.</string>
+    <string name="facialcapture_auto_mode_help_do_message_first">Нейтральное выражение лица</string>
+    <string name="facialcapture_auto_mode_help_do_message_second">Поместите лицо</string>
+    <string name="facialcapture_auto_mode_help_do_message_third">Моргните, когда необходимо</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_first">Убедитесь, что на вас нет шляпы, шарфа, а ваши волосы не закрывают лицо</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_second">Никаких очков</string>
+    <string name="facialcapture_auto_mode_help_process_button_text">Закрыть</string>
+    <string name="facialcapture_auto_mode_help_cancel_button_text">Отмена</string>
+    <string name="facialcapture_manual_mode_help_tts">Сделайте следующее: поместите лицо, сделайте нейтральное выражение лица. Убедитесь, что на вас нет шляпы, шарфа, очков, а также проверьте, чтобы волосы не закрывали лицо.</string>
+    <string name="facialcapture_manual_mode_help_do_title">Сделайте следующее:</string>
+    <string name="facialcapture_manual_mode_help_do_message_first">Поместите лицо</string>
+    <string name="facialcapture_manual_mode_help_do_message_second">Нейтральное выражение лица</string>
+    <string name="facialcapture_manual_mode_help_do_not_title">Также:</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_first">Убедитесь, что на вас нет шляпы, шарфа, а ваши волосы не закрывают лицо...</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_second">Никаких очков</string>
+    <string name="facialcapture_overlay_message_hold_phone_upright">Держите телефон вертикально</string>
+    <string name="facialcapture_overlay_message_face_not_found">Лицо не распознано</string>
+    <string name="facialcapture_overlay_message_face_not_frontal">Поместите лицо в овал</string>
+    <string name="facialcapture_overlay_message_eyes_not_found">Ваши глаза не обнаружены</string>
+    <string name="facialcapture_overlay_message_face_move_further_away">Расположите устройство подальше</string>
+    <string name="facialcapture_overlay_message_face_get_closer">Расположитесь ближе</string>
+    <string name="facialcapture_overlay_message_poor_image_quality">Добавьте освещение</string>
+    <string name="facialcapture_overlay_message_lighting_fail">Добавьте освещение</string>
+    <string name="facialcapture_overlay_message_sharpness_fail">Держите прямо или добавьте освещение</string>
+    <string name="facialcapture_overlay_message_exposure_fail">Добавьте освещение</string>
+    <string name="facialcapture_overlay_message_gray_fail">Добавьте освещение</string>
+    <string name="facialcapture_overlay_message_blink_now">Моргните</string>
+    <string name="facialcapture_overlay_message_tap_now">Нажмите</string>
+</resources>

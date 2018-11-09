@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_confirmation_code_error">Überprüfen Sie den Bestätigungscode und versuchen Sie es erneut. Oder fordern Sie einen neuen Code an.</string>
+    <string name="device_confirmation_resend_error">Wir konnten keinen Bestätigungscode an Ihre Handynummer senden. Versuchen Sie es später erneut.</string>
+    <string name="device_confirmation_code_title">Code eingeben</string>
+    <string name="onboarding_phone_confirmation_title">Handynummer eingeben</string>
+    <string name="onboarding_phone_confirmation_select_number_send_text_hint">Wir senden eine SMS an diese Nummer.</string>
+    <string name="onboarding_phone_confirmation_select_number_secondary_prompt">Indem Sie fortfahren, bestätigen Sie, dass dies Ihre Handynummer ist, und stimmen zu, SMS von PayPal zu empfangen. Es können die üblichen Mobilfunkgebühren anfallen.</string>
+    <string name="onboarding_phone_confirmation_code_toolbar_title">Code eingeben</string>
+    <string name="onboarding_phone_confirmation_code_message_text">SMS wurde an %1$s gesendet.</string>
+    <string name="onboarding_phone_confirmation_phone_exist">Loggen Sie sich in Ihr Konto ein oder geben Sie eine andere Nummer ein.</string>
+    <string name="onboarding_phone_confirmation_sms_not_sent_email_option">Geben Sie eine andere Nummer ein oder melden Sie sich mit Ihrer E-Mail-Adresse an.</string>
+    <string name="onboarding_phone_confirmation_error_title">Erneut versuchen</string>
+    <string name="onboarding_phone_confirmation_error_phone_exist">Diese Nummer wird bereits verwendet.</string>
+    <string name="onboarding_phone_confirmation_error_sms_not_sent">Leider können wir keine SMS an diese Nummer senden.</string>
+    <string name="onboarding_phone_confirmation_error_trouble_signup">Gibt es Probleme mit dem Code\?</string>
+    <string name="onboarding_phone_confirmation_error_incorrct_code">Überprüfen Sie den Code und versuchen Sie es erneut.</string>
+    <string name="onboarding_phone_confirmation_error_expire_code">Der Code ist abgelaufen. Neuen Code anforden</string>
+    <string name="onboarding_phone_confirmation_error_cannot_confirm">Leider können wir diese Handynummer nicht bestätigen.</string>
+    <string name="onboarding_phone_confirmation_button_label_sign_in">Einloggen</string>
+    <string name="onboarding_phone_confirmation_button_label_continue">Weiter</string>
+    <string name="onboarding_phone_confirmation_button_singup_email">Mit E-Mail-Adresse anmelden</string>
+    <string name="onboarding_phone_confirmation_button_send_again">Neuen Code senden</string>
+    <string name="onboarding_select_country">Land wählen</string>
+</resources>

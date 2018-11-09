@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facialcapture_camera_permission_title">Berechtigungsgrund</string>
+    <string name="facialcapture_camera_permission_rationale">Kamerazugriff ist erforderlich, um ein Foto Ihres Gesichts zu machen.</string>
+    <string name="facialcapture_auto_mode_tutorial_tts">Platzieren Sie Ihr Gesicht mittig in das ovale Feld. Blinzeln Sie, wenn Sie bereit sind</string>
+    <string name="facialcapture_auto_mode_tutorial_button_text">Weiter</string>
+    <string name="facialcapture_overlay_tts">Platzieren Sie Ihr Gesicht mittig. Tragen Sie keinen Hut, Schal oder eine Brille und verdecken Sie Ihr Gesicht nicht mit den Haaren. Blinzeln Sie, wenn Sie bereit sind</string>
+    <string name="facialcapture_overlay_cancel_button">Abbrechen</string>
+    <string name="facialcapture_overlay_help_button">Hilfe</string>
+    <string name="facialcapture_timeout_tts">\"Die Zeit ist um. Wir konnten kein Foto von Ihnen machen...\" Wie wollen Sie es erneut versuchen: automatisch oder manuell\?</string>
+    <string name="facialcapture_timeout_message_1">Wir konnten kein Foto von Ihrem Gesicht machen</string>
+    <string name="facialcapture_timeout_message_2">Achten Sie darauf, Ihr Gesicht mittig im ovalen Feld zu platzieren und neutral zu schauen. Dann blinzeln Sie, wenn Sie bereit sind. \n\n Ihr Gesicht muss deutlich erkennbar sein. Tragen Sie deshalb keinen Hut, Schal oder eine Brille. Achten Sie auch darauf, dass Ihre Haare nicht Ihr Gesicht verdecken.</string>
+    <string name="facialcapture_timeout_auto_capture">Automatische Aufnahme</string>
+    <string name="facialcapture_timeout_manual_capture">Manuelle Aufnahme machen</string>
+    <string name="facialcapture_timeout_auto_capture_button_text">Erneut versuchen</string>
+    <string name="facialcapture_timeout_manual_capture_button_text">Manuell</string>
+    <string name="facialcapture_auto_mode_help_tts">Platzieren Sie Ihr Gesicht mittig, schauen Sie neutral und blinzeln Sie, wenn Sie bereit sind. Keine Hüte, Schals oder Brillen und keine Haare im Gesicht</string>
+    <string name="facialcapture_auto_mode_help_do_message_first">Neutraler Gesichtsausdruck</string>
+    <string name="facialcapture_auto_mode_help_do_message_second">Platzieren Sie Ihr Gesicht mittig</string>
+    <string name="facialcapture_auto_mode_help_do_message_third">Blinzeln Sie, wenn Sie dazu aufgefordert werden</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_first">Ihr Gesicht sollte nicht von Hüten, Schals, Brillen oder Haaren verdeckt werden</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_second">Keine Brille</string>
+    <string name="facialcapture_auto_mode_help_process_button_text">Schließen</string>
+    <string name="facialcapture_auto_mode_help_cancel_button_text">Abbrechen</string>
+    <string name="facialcapture_manual_mode_help_tts">Platzieren Sie Ihr Gesicht mittig, schauen Sie neutral, keine Hüte, Schals, Brillen oder Haare im Gesicht</string>
+    <string name="facialcapture_manual_mode_help_do_title">Machen Sie Folgendes:</string>
+    <string name="facialcapture_manual_mode_help_do_message_first">Platzieren Sie Ihr Gesicht mittig</string>
+    <string name="facialcapture_manual_mode_help_do_message_second">Neutraler Gesichtsausdruck</string>
+    <string name="facialcapture_manual_mode_help_do_not_title">Beachten Sie ebenfalls:</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_first">Keine Hüte, Schals oder Brillen und keine Haare im Gesicht</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_second">Keine Brille</string>
+    <string name="facialcapture_overlay_message_hold_phone_upright">Halten Sie das Telefon aufrecht</string>
+    <string name="facialcapture_overlay_message_face_not_found">Gesicht nicht erkannt</string>
+    <string name="facialcapture_overlay_message_face_not_frontal">Platzieren Sie Ihr Gesicht mittig in das ovale Feld</string>
+    <string name="facialcapture_overlay_message_eyes_not_found">Ihre Augen wurden nicht erkannt</string>
+    <string name="facialcapture_overlay_message_face_move_further_away">Bewegen Sie sich weiter weg</string>
+    <string name="facialcapture_overlay_message_face_get_closer">Sie sind noch zu weit weg</string>
+    <string name="facialcapture_overlay_message_poor_image_quality">Verbessern Sie die Beleuchtung</string>
+    <string name="facialcapture_overlay_message_lighting_fail">Verbessern Sie die Beleuchtung</string>
+    <string name="facialcapture_overlay_message_sharpness_fail">Halten Sie still oder verbessern Sie die Beleuchtung</string>
+    <string name="facialcapture_overlay_message_exposure_fail">Verbessern Sie die Beleuchtung</string>
+    <string name="facialcapture_overlay_message_gray_fail">Verbessern Sie die Beleuchtung</string>
+    <string name="facialcapture_overlay_message_blink_now">Jetzt blinzeln</string>
+    <string name="facialcapture_overlay_message_tap_now">Jetzt tippen</string>
+</resources>

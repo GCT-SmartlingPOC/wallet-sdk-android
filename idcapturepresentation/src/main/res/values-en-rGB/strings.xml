@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_capture_permission_title">Camera access refused</string>
+    <string name="id_capture_permission_content">To confirm your identity, we need to access your camera.</string>
+    <string name="id_capture_identity_content">We\'ll ask for permission to use the camera on your mobile phone. You\'ll then be asked to follow some on-screen instructions to provide us with a picture. \n\n We\'ll compare your picture to your ID to confirm your identity. \n\n Valid IDs include a state-issued driving licence or a passport.</string>
+    <string name="facial_capture_identity_content">We need a picture of you to make sure it\'s really you. We\'ll compare your picture to your photo ID. \n\n Simply centre your face in the oval on the next screen and blink when you\'re ready.</string>
+    <string name="document_capture_identity_content">We need a current photo ID to make sure you\'re really you. We\'ll compare your photo ID to the picture we took. \n\n Valid IDs include a state-issued driving licence or a passport.</string>
+    <string name="id_capture_upload_loading_title">Submitting your information.</string>
+    <string name="id_capture_upload_error_quit_content">Check again in a little while.</string>
+    <string name="id_capture_upload_error_retry_button_text">Try Again</string>
+</resources>

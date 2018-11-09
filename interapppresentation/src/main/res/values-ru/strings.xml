@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aries_button_yes">Подтвердить</string>
+    <string name="aries_button_no">Закрыть окно</string>
+    <string name="aries_cancel_transaction_dialog">Вы уверены, что хотите отменить данный платеж и вернуться на сайт продавца\?</string>
+    <string name="error_message">Произошла внутренняя ошибка</string>
+    <string name="future_payment_consent_header">Согласие на будущие платежи</string>
+    <string name="future_payment_consent_title">%1$s просит вас:</string>
+    <string name="future_payment_consent_approval_bullet">• Предварительно подтверждайте будущие платежи, совершаемые с вашего счета PayPal, не заходя каждый раз в систему PayPal.</string>
+    <string name="future_payment_consent_approval_sub_bullet">PayPal сначала будет использовать для оплаты покупок ваш остаток на счете PayPal. Если это не покроет общую сумму, то будут использоваться банковские карты, добавленные к вашему счету PayPal.</string>
+    <string name="future_payment_consent_profile_sharing_bullet">• Делитесь контактной информацией. </string>
+    <string name="future_payment_consent_profile_sharing_sub_bullet">Полное имя, электронный адрес, почтовый адрес.</string>
+    <string name="future_payment_consent_merchant_bullet">• Принять положения &lt;a href="%2$s"&gt;Политики конфиденциальности&lt;/a&gt; и &lt;a href="%3$s"&gt;Соглашения с пользователем&lt;/a&gt; %1$s.</string>
+    <string name="future_payment_consent_privacy">PayPal помогает защищать ваши личные данные и сведения о платеже.</string>
+    <string name="future_payment_consent_privacy_details">Чтобы удалить эти разрешения, войдите в систему PayPal и перейдите к разделу &lt;b&gt;«Профиль» &gt; «Предварительно утвержденные платежи» &gt; «Вход в систему с помощью PayPal»&lt;/b&gt;, и просто удалите %1$s из списка.</string>
+    <string name="future_payment_consent_agree_button_title">Подтвердить</string>
+    <string name="future_payment_consent_decline_button_title">Отмена</string>
+    <string name="top_up_complete">Да! Пополнение счета выполнено. </string>
+    <string name="top_up_canceled">Ой! Пополнение счета отменено.</string>
+</resources>

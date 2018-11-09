@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_confirmation_code_error">Проверьте код безопасности и повторите попытку либо запросите новый код.</string>
+    <string name="device_confirmation_resend_error">Нам не удалось отправить код подтверждения на номер вашего мобильного. Повторите попытку позднее.</string>
+    <string name="device_confirmation_code_title">Введите код</string>
+    <string name="onboarding_phone_confirmation_title">Введите номер вашего мобильного</string>
+    <string name="onboarding_phone_confirmation_select_number_send_text_hint">Мы отправим SMS-сообщение на этот номер.</string>
+    <string name="onboarding_phone_confirmation_select_number_secondary_prompt">Нажимая «Продолжить», вы подтверждаете свое право использовать данный номер телефона и соглашаетесь получать SMS-сообщения от PayPal. Оператор услуг связи может взимать оплату в соответствии с тарифами.</string>
+    <string name="onboarding_phone_confirmation_code_toolbar_title">Введите код</string>
+    <string name="onboarding_phone_confirmation_code_message_text">SMS-сообщение было отправлено на номер %1$s.</string>
+    <string name="onboarding_phone_confirmation_phone_exist">Войдите в свою учетную запись или введите другой номер.</string>
+    <string name="onboarding_phone_confirmation_sms_not_sent_email_option">Введите другой номер или зарегистрируйтесь с помощью своего адреса электронной почты.</string>
+    <string name="onboarding_phone_confirmation_error_title">Попробуйте еще раз</string>
+    <string name="onboarding_phone_confirmation_error_phone_exist">Возможно, этот номер уже используется.</string>
+    <string name="onboarding_phone_confirmation_error_sms_not_sent">К сожалению, не удалось отправить SMS-сообщение на этот номер.</string>
+    <string name="onboarding_phone_confirmation_error_trouble_signup">Возникла проблема с кодом\?</string>
+    <string name="onboarding_phone_confirmation_error_incorrct_code">Проверьте код и повторите попытку.</string>
+    <string name="onboarding_phone_confirmation_error_expire_code">Срок действия кода истек. Получить новый.</string>
+    <string name="onboarding_phone_confirmation_error_cannot_confirm">К сожалению, нам не удалось подтвердить этот номер телефона.</string>
+    <string name="onboarding_phone_confirmation_button_label_sign_in">Войти</string>
+    <string name="onboarding_phone_confirmation_button_label_continue">Далее</string>
+    <string name="onboarding_phone_confirmation_button_singup_email">Зарегистрируйтесь с помощью адреса электронной почты</string>
+    <string name="onboarding_phone_confirmation_button_send_again">Отправить новый код</string>
+    <string name="onboarding_select_country">Выберите страну</string>
+</resources>

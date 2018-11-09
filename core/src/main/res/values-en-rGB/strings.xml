@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deny">Refuse</string>
+    <string name="network_unavailable_title">We\'re Sorry</string>
+    <string name="network_unavailable_message">No internet connection</string>
+    <string name="network_unavailable_suggestion">Make sure your phone isn\'t in flight mode and is connected to Wi-Fi or mobile data.</string>
+    <string name="service_error_message">It looks like we\'re having trouble connecting you at the moment.</string>
+    <string name="data_transaction_canceled_title">We\'re Sorry</string>
+    <string name="data_transaction_canceled_message">It looks like you cancelled your request before we could complete it.</string>
+    <string name="unknown_title">We\'re sorry about that</string>
+    <string name="unknown_message">We\'re having some trouble completing your request at the moment.</string>
+    <string name="secure_connection_required_message">It looks like the network you\'re on isn\'t secure. Connect to another, more secure one and try again.</string>
+    <string name="secure_connection_required_suggestion">Please try again.</string>
+</resources>

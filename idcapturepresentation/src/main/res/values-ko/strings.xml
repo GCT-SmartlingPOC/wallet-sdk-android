@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_capture_permission_title">카메라 액세스 거부됨</string>
+    <string name="id_capture_permission_content">본인 확인을 위해 고객님의 카메라에 액세스해야 합니다.</string>
+    <string name="id_capture_permission_button_text">카메라 권한 변경</string>
+    <string name="id_capture_identity_title">본인 확인</string>
+    <string name="id_capture_identity_content">PayPal이 고객님의 휴대폰에서 카메라를 사용할 수 있는 권한을 요청합니다. 그러면 화면에 있는 몇 가지 지침에 따라 사진을 제공해 주세요. \n\n 본인 확인을 위해 신분증과 해당 사진을 비교합니다. \n\n 유효한 신분증에는 주 발급 운전면허증 또는 여권이 포함됩니다.</string>
+    <string name="id_capture_identity_button_text">다음</string>
+    <string name="facial_capture_identity_title">이제 한 단계만 남았습니다.</string>
+    <string name="facial_capture_identity_content">본인이 맞는지 확인하기 위해 고객님의 사진이 필요합니다. 본인 확인을 위해 사진이 부착된 신분증과 해당 사진을 비교합니다. \n\n 다음 화면의 타원 가운데 얼굴을 맞추고 준비가 되면 깜박이면 됩니다.</string>
+    <string name="facial_capture_identity_button_text">다음</string>
+    <string name="document_capture_identity_title">이제 한 단계만 남았습니다.</string>
+    <string name="document_capture_identity_content">본인이 맞는지 확인하기 위해 최근 사진이 부착된 신분증이 필요합니다. 사진이 부착된 신분증을 방금 찍은 사진과 비교합니다. \n\n 유효한 신분증에는 주 발급 운전면허증 또는 여권이 포함됩니다.</string>
+    <string name="document_capture_identity_button_text">다음</string>
+    <string name="id_capture_upload_loading_title">정보 제출 중…</string>
+    <string name="id_capture_upload_error_quit_title">죄송합니다. 현재 오류가 발생한 것 같습니다.</string>
+    <string name="id_capture_upload_error_quit_content">잠시 후 다시 확인해 주세요.</string>
+    <string name="id_capture_upload_error_quit_button_text">완료</string>
+    <string name="id_capture_upload_error_retry_title">죄송합니다. 현재 오류가 발생한 것 같습니다.</string>
+    <string name="id_capture_upload_error_retry_button_text">다시 시도</string>
+    <string name="string_facial_capture_quit_title">계속하시겠어요\?</string>
+    <string name="string_facial_capture_quit_content">취소하는 경우 이체를 검토하는 데 최대 %1$s시간이 소요됩니다.</string>
+    <string name="string_facial_capture_quit_button_cancel">취소 및 대기</string>
+    <string name="string_facial_capture_quit_button_continue">계속</string>
+</resources>

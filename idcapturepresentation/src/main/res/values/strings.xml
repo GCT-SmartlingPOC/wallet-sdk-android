@@ -1,0 +1,39 @@
+<resources>
+
+    <!--permission page-->
+    <string name="id_capture_permission_title">Camera Access Denied</string>
+    <string name="id_capture_permission_content">To confirm your identity, we\'ll need to access your camera.</string>
+    <string name="id_capture_permission_button_text">Change Camera Permissions</string>
+
+    <!--id capture confirm identity page-->
+    <string name="id_capture_identity_title">Confirm your identity</string>
+    <string name="id_capture_identity_content">We\'ll ask for permission to use the camera on your phone. Then, you\'ll follow some on-screen instructions to provide us with a picture. \n\n We\'ll compare your picture to your ID to confirm your identity. \n\n Valid IDs include a state-issued driver\'s license or a passport.</string>
+    <string name="id_capture_identity_button_text">Next</string>
+
+    <!--facial capture confirm page -->
+    <string name="facial_capture_identity_title">There\'s one more step</string>
+    <string name="facial_capture_identity_content">We need a picture of you to make sure it\'s really you. We\'ll compare your picture to your photo ID. \n\n Just center your face in the oval on the next screen and blink when you\'re ready.</string>
+    <string name="facial_capture_identity_button_text">Next</string>
+
+    <!--document capture confirm identity page -->
+    <string name="document_capture_identity_title">There\'s one more step</string>
+    <string name="document_capture_identity_content">We need a current photo ID to make sure you\'re really you. We\'ll compare your photo ID to the picture we took. \n\n Valid IDs include a state-issued driver\'s license or a passport.</string>
+    <string name="document_capture_identity_button_text">Next</string>
+
+    <!--id capture upload page-->
+    <string name="id_capture_upload_loading_title">Submitting your info&#8230;</string>
+
+    <string name="id_capture_upload_error_quit_title">We\'re sorry, things don\'t appear to be working right now</string>
+    <string name="id_capture_upload_error_quit_content">Check back in a little while.</string>
+    <string name="id_capture_upload_error_quit_button_text">Done</string>
+
+    <string name="id_capture_upload_error_retry_title">We\'re sorry, things don\'t appear to be working right now</string>
+    <string name="id_capture_upload_error_retry_content"/>
+    <string name="id_capture_upload_error_retry_button_text">Try again</string>
+
+    <!--quit dialog-->
+    <string name="string_facial_capture_quit_title">Are you sure?</string>
+    <string name="string_facial_capture_quit_content">If you cancel, we\'ll need up to %1$s hours to review your transfer.</string>
+    <string name="string_facial_capture_quit_button_cancel">CANCEL &amp; WAIT</string>
+    <string name="string_facial_capture_quit_button_continue">CONTINUE</string>
+</resources>

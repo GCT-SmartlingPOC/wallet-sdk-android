@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aries_button_yes">Ja</string>
+    <string name="aries_button_no">Nein</string>
+    <string name="aries_cancel_transaction_dialog">Wollen Sie diese Zahlung wirklich abbrechen und zur Website des Händlers zurückkehren\?</string>
+    <string name="error_message">Ein Fehler ist aufgetreten.</string>
+    <string name="future_payment_consent_header">Vereinbarung über künftige Zahlungen (Abbuchungsvereinbarung)</string>
+    <string name="future_payment_consent_title">%1$s bittet um Folgendes:</string>
+    <string name="future_payment_consent_approval_bullet">•  Genehmigen Sie künftige Zahlungen aus Abbuchungsaufträgen, die auch dann gesendet werden, wenn Sie nicht bei PayPal eingeloggt sind. </string>
+    <string name="future_payment_consent_approval_sub_bullet">PayPal verwendet zuerst Ihr PayPal-Guthaben, um Einkäufe zu bezahlen. Wenn Ihr PayPal-Guthaben nicht ausreicht, werden Ihr Bankkonto und/oder Ihre Kreditkarte für diese Bestellung verwendet.</string>
+    <string name="future_payment_consent_profile_sharing_bullet">•  Geben Sie Ihre persönlichen Daten an</string>
+    <string name="future_payment_consent_profile_sharing_sub_bullet">Vollständiger Name, E-Mail-Adresse, Adresse</string>
+    <string name="future_payment_consent_merchant_bullet">Sie stimmen den &lt;a href="%3$s"&gt;Datenschutzgrundsätzen&lt;/a&gt; und &lt;a href="%2$s"&gt;Nutzungsbedingungen&lt;/a&gt; von %1$s zu.</string>
+    <string name="future_payment_consent_privacy">Bei uns bleiben Ihre Finanzdaten sicher verschlüsselt.</string>
+    <string name="future_payment_consent_privacy_details">Um diese Vereinbarung zu stornieren, loggen Sie sich auf der PayPal-Website ein und rufen Sie &lt;b&gt;\"Mein Profil\"&gt; \"Sicherheit\"&gt; \"Login mit PayPal\"&lt;/b&gt; auf, und entfernen Sie einfach %1$s aus der Liste.</string>
+    <string name="future_payment_consent_agree_button_title">Zustimmen</string>
+    <string name="future_payment_consent_decline_button_title">Abbrechen</string>
+    <string name="top_up_complete">Fertig! Geld wurde eingezahlt.</string>
+    <string name="top_up_canceled">Ups. Die Einzahlung wurde abgebrochen.</string>
+</resources>

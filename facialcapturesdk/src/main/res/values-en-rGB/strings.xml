@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facialcapture_camera_permission_rationale">Camera access is required to take a photo of you.</string>
+    <string name="facialcapture_auto_mode_tutorial_tts">Centre your face in the oval and get ready to blink</string>
+    <string name="facialcapture_overlay_tts">Centre your face without hats, scarfs, glasses or hair coverage. Blink when ready</string>
+    <string name="facialcapture_timeout_tts">\"Time\'s up, we couldn\'t take your photo\". How would you like to try again, with auto capture or manual capture\?</string>
+    <string name="facialcapture_timeout_message_2">Make sure to centre your face in the oval and keep a neutral expression. Then, blink when you\'re ready. \n\n We need a clear view of your face, so don\'t wear a hat, glasses or a scarf. Also, make sure to keep your hair off your face.</string>
+    <string name="facialcapture_timeout_auto_capture">Auto capture</string>
+    <string name="facialcapture_timeout_manual_capture">Take manual capture</string>
+    <string name="facialcapture_auto_mode_help_tts">Centre your face, keep a neutral facial expression and blink when ready. Don\'t wear a hat, scarf or glasses, and there should be no hair covering your face</string>
+    <string name="facialcapture_auto_mode_help_do_message_second">Centre your face</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_first">No hats, scarves or hair should cover your face</string>
+    <string name="facialcapture_manual_mode_help_tts">Centre your face, keep a neutral facial expression and don\'t wear a hat, scarf or glasses, and there should be no hair covering your face</string>
+    <string name="facialcapture_manual_mode_help_do_title">Please:</string>
+    <string name="facialcapture_manual_mode_help_do_message_first">Centre your face</string>
+    <string name="facialcapture_manual_mode_help_do_message_second">Keep a neutral facial expression</string>
+    <string name="facialcapture_manual_mode_help_do_not_title">And:</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_first">Don\'t wear a hat or a scarf, and make sure no hair is covering your face.</string>
+    <string name="facialcapture_overlay_message_face_not_frontal">Centre face in the oval</string>
+    <string name="facialcapture_overlay_message_eyes_not_found">Your eyes weren\'t detected</string>
+</resources>

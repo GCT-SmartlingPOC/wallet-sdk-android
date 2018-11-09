@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_confirmation_code_error">확인 코드를 체크하고 다시 시도하거나 새 코드를 요청합니다.</string>
+    <string name="device_confirmation_resend_error">휴대폰 번호로 확인 코드를 보낼 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="device_confirmation_code_title">코드 입력</string>
+    <string name="onboarding_phone_confirmation_title">휴대폰을 입력하세요.</string>
+    <string name="onboarding_phone_confirmation_select_number_send_text_hint">이 번호로 문자 메시지를 보내 드립니다.</string>
+    <string name="onboarding_phone_confirmation_select_number_secondary_prompt">계속 진행하면 이 번호를 사용할 권한이 있음을 확인하고 PayPal 문자 메시지 수신에 동의하게 됩니다.</string>
+    <string name="onboarding_phone_confirmation_code_toolbar_title">코드 입력</string>
+    <string name="onboarding_phone_confirmation_code_message_text">%1$s번으로 문자 메시지가 전송되었습니다.</string>
+    <string name="onboarding_phone_confirmation_phone_exist">계정에 로그인하거나 다른 번호를 입력하세요.</string>
+    <string name="onboarding_phone_confirmation_sms_not_sent_email_option">다른 번호를 입력하거나 대신 이메일로 가입하세요.</string>
+    <string name="onboarding_phone_confirmation_error_title">다시 시도 필요</string>
+    <string name="onboarding_phone_confirmation_error_phone_exist">이미 사용 중인 번호인 것 같습니다.</string>
+    <string name="onboarding_phone_confirmation_error_sms_not_sent">죄송합니다. 이 번호로 문자 메시지를 보낼 수 없습니다.</string>
+    <string name="onboarding_phone_confirmation_error_trouble_signup">코드에 문제가 있으세요\?</string>
+    <string name="onboarding_phone_confirmation_error_incorrct_code">코드를 확인하고 다시 시도해 주세요.</string>
+    <string name="onboarding_phone_confirmation_error_expire_code">코드가 만료되었습니다. 새 코드를 받으세요.</string>
+    <string name="onboarding_phone_confirmation_error_cannot_confirm">죄송합니다. 이 전화번호를 확인할 수 없습니다.</string>
+    <string name="onboarding_phone_confirmation_button_label_sign_in">로그인</string>
+    <string name="onboarding_phone_confirmation_button_label_continue">다음</string>
+    <string name="onboarding_phone_confirmation_button_singup_email">이메일로 가입하기</string>
+    <string name="onboarding_phone_confirmation_button_send_again">새 코드 보내기</string>
+    <string name="onboarding_select_country">국가 선택</string>
+</resources>

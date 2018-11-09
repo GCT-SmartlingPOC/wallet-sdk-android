@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_capture_permission_title">Kamerazugriff verweigert</string>
+    <string name="id_capture_permission_content">Wir brauchen Zugriff auf Ihre Kamera, um Ihre Identität zu bestätigen.</string>
+    <string name="id_capture_permission_button_text">Kamera-Berechtigungseinstellungen ändern</string>
+    <string name="id_capture_identity_title">Identität bestätigen</string>
+    <string name="id_capture_identity_content">Genehmigen Sie uns, die Kamera auf Ihrem Handy zu verwenden. Befolgen Sie dann einige Anweisungen auf dem Bildschirm, um uns ein Foto zur Verfügung zu stellen. \n\n Wir vergleichen Ihr Foto mit Ihrem Ausweis und bestätigen so Ihre Identität. \n\n Zu gültigen Ausweisen zählen amtliche Führerscheine oder Reisepässe.</string>
+    <string name="id_capture_identity_button_text">Weiter</string>
+    <string name="facial_capture_identity_title">Noch ein weiterer Schritt</string>
+    <string name="facial_capture_identity_content">Senden Sie uns ein Foto von sich, um Ihre Identität zu bestätigen. Wir vergleichen Ihr Foto mit Ihrem Lichtbildausweis. \n\n Platzieren Sie einfach Ihr Gesicht mittig in das ovale Feld auf der nächsten Seite. Blinzeln Sie, wenn Sie bereit sind.</string>
+    <string name="facial_capture_identity_button_text">Weiter</string>
+    <string name="document_capture_identity_title">Noch ein weiterer Schritt</string>
+    <string name="document_capture_identity_content">Senden Sie uns einen aktuellen Lichtbildausweis, um Ihre Identität zu bestätigen. Wir vergleichen Ihren Lichtbildausweises mit dem Foto, das wir gemacht haben. \n\n Zu gültigen Ausweisen zählen amtliche Führerscheine oder Reisepässe.</string>
+    <string name="document_capture_identity_button_text">Weiter</string>
+    <string name="id_capture_upload_loading_title">Ihre Daten werden gesendet...</string>
+    <string name="id_capture_upload_error_quit_title">Leider ist ein Fehler aufgetreten</string>
+    <string name="id_capture_upload_error_quit_content">Versuchen Sie es bald erneut.</string>
+    <string name="id_capture_upload_error_quit_button_text">Fertig</string>
+    <string name="id_capture_upload_error_retry_title">Leider ist ein Fehler aufgetreten</string>
+    <string name="id_capture_upload_error_retry_button_text">Erneut versuchen</string>
+    <string name="string_facial_capture_quit_title">Sind Sie sicher\?</string>
+    <string name="string_facial_capture_quit_content">Wenn Sie abbrechen, brauchen wir bis zu %1$s Stunden, um Ihre Abbuchung zu überprüfen.</string>
+    <string name="string_facial_capture_quit_button_cancel">Abbrechen und warten</string>
+    <string name="string_facial_capture_quit_button_continue">Weiter</string>
+</resources>

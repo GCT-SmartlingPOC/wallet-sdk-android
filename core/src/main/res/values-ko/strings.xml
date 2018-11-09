@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">허용</string>
+    <string name="cancel">취소</string>
+    <string name="deny">거부</string>
+    <string name="dismiss">해제</string>
+    <string name="retry">다시 시도</string>
+    <string name="network_unavailable_title">죄송합니다.</string>
+    <string name="network_unavailable_message">인터넷 연결 안 됨</string>
+    <string name="network_unavailable_suggestion">전화기가 비행기 모드가 아니고 Wi-Fi 또는 셀룰러 데이터에 연결되어 있는지 확인하세요.</string>
+    <string name="service_error_title">기다려 주셔서 감사합니다.</string>
+    <string name="service_error_message">현재 연결에 문제가 있는 것 같습니다.</string>
+    <string name="service_error_suggestion">잠시 후에 다시 시도해 주세요.</string>
+    <string name="data_transaction_canceled_title">죄송합니다.</string>
+    <string name="data_transaction_canceled_message">PayPal에서 완료하기 전에 요청을 취소하신 것 같습니다.</string>
+    <string name="data_transaction_canceled_suggestion">다시 시도하시겠어요\?</string>
+    <string name="unknown_title">죄송합니다.</string>
+    <string name="unknown_message">현재 요청을 완료할 수 없습니다.</string>
+    <string name="unknown_suggestion">잠시 후에 다시 시도하고 문제가 계속되면 알려주세요.</string>
+    <string name="secure_connection_required_title">보안을 위한 조치…</string>
+    <string name="secure_connection_required_message">현재 네트워크가 안전하지 않은 것 같습니다. 다른 안전한 네트워크에 연결하고 다시 시도해 주세요.</string>
+    <string name="secure_connection_required_suggestion">다시 시도해 주세요.</string>
+</resources>

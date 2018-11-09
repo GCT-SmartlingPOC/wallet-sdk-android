@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">Zulassen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="deny">Ablehnen</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="retry">Wiederholen</string>
+    <string name="network_unavailable_title">Es tut uns leid</string>
+    <string name="network_unavailable_message">Keine Internetverbindung</string>
+    <string name="network_unavailable_suggestion">Stellen Sie sicher, dass Ihr Gerät nicht im Flugmodus ist und über WLAN oder das Mobilfunknetz verbunden ist.</string>
+    <string name="service_error_title">Verbindungsproblem</string>
+    <string name="service_error_message">Beim Aufbau der Verbindung ist ein Problem aufgetreten.</string>
+    <string name="service_error_suggestion">Versuchen Sie es in Kürze erneut.</string>
+    <string name="data_transaction_canceled_title">Das hat nicht funktioniert</string>
+    <string name="data_transaction_canceled_message">Sie haben den Vorgang abgebrochen, bevor wir ihn abschließen konnten.</string>
+    <string name="data_transaction_canceled_suggestion">Wollen Sie es noch einmal versuchen\?</string>
+    <string name="unknown_title">Das hat nicht funktioniert</string>
+    <string name="unknown_message">Bei der Verarbeitung Ihres Auftrags ist ein Problem aufgetreten.</string>
+    <string name="unknown_suggestion">Versuchen Sie es in Kürze erneut. Falls das Problem weiterhin besteht, geben Sie uns Bescheid.</string>
+    <string name="secure_connection_required_title">Zu Ihrer Sicherheit...</string>
+    <string name="secure_connection_required_message">Ihr Netzwerk scheint nicht sicher zu sein. Verbinden Sie sich mit einem sichereren Netzwerk und versuchen Sie es erneut.</string>
+    <string name="secure_connection_required_suggestion">Versuchen Sie es erneut.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">Разрешить</string>
+    <string name="cancel">Отменить</string>
+    <string name="deny">Отклонить</string>
+    <string name="dismiss">Отклонить </string>
+    <string name="retry">Повторите попытку </string>
+    <string name="network_unavailable_title">Приносим извинения</string>
+    <string name="network_unavailable_message">Отсутствует интернет-соединение</string>
+    <string name="network_unavailable_suggestion">Убедитесь, что ваш телефон не в режиме полета и подключен к WiFi или к сотовой системе передачи данных.</string>
+    <string name="service_error_title">Приносим свои извинения за то, что заставили вас ждать</string>
+    <string name="service_error_message">Похоже,  в настоящее время нам не удается установить соединение.</string>
+    <string name="service_error_suggestion">Повторите попытку позже.</string>
+    <string name="data_transaction_canceled_title">Приносим извинения</string>
+    <string name="data_transaction_canceled_message">Похоже,  вы отменили свой запрос прежде, чем мы могли выполнить его.</string>
+    <string name="data_transaction_canceled_suggestion">Вы хотите повторить попытку\?</string>
+    <string name="unknown_title">Извините</string>
+    <string name="unknown_message">В настоящее время нам не удается выполнить ваш запрос.</string>
+    <string name="unknown_suggestion">Повторите попытку через некоторое время. Если проблема не будет устранена, сообщите нам об этом.</string>
+    <string name="secure_connection_required_title">Для вашей безопасности...</string>
+    <string name="secure_connection_required_message">Возможно, вы используете незащищенную сеть. Подключитесь к другой более безопасной сети и повторите попытку.</string>
+    <string name="secure_connection_required_suggestion">Повторите попытку.</string>
+</resources>

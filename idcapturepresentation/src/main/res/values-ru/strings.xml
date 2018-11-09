@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_capture_permission_title">Отказано в доступе к камере</string>
+    <string name="id_capture_permission_content">Нам необходимо получить доступ к вашей камере, чтобы подтвердить вашу личность.</string>
+    <string name="id_capture_permission_button_text">Изменить разрешения на использование камеры</string>
+    <string name="id_capture_identity_title">Подтвердите свои личные данные</string>
+    <string name="id_capture_identity_content">Мы запросим разрешение на использование камеры вашего телефона. После этого следуйте инструкциям на экране, чтобы отправить нам фотографию. \n\n Мы сравним ваш снимок с фото в удостоверении личности, чтобы подтвердить вашу личность. \n\n Водительские права или паспорт, выданные государством, являются действительными удостоверениями личности.</string>
+    <string name="id_capture_identity_button_text">Далее</string>
+    <string name="facial_capture_identity_title">Остался еще один шаг</string>
+    <string name="facial_capture_identity_content">Нам необходима ваша фотография, чтобы подтвердить вашу личность. Мы сравним ваш снимок с фото в удостоверении личности. \n\n Поместите лицо в овал на следующем экране и сообщите, когда будете готовы.</string>
+    <string name="facial_capture_identity_button_text">Далее</string>
+    <string name="document_capture_identity_title">Остался еще один шаг</string>
+    <string name="document_capture_identity_content">Нам необходимо действующее удостоверение личности с фотографией, чтобы подтвердить вашу личность. Мы сравним фото в вашем удостоверении личности со снимком, который мы сделали. \n\n Водительские права или паспорт, выданные государством, являются действительными удостоверениями личности.</string>
+    <string name="document_capture_identity_button_text">Далее</string>
+    <string name="id_capture_upload_loading_title">Осуществляется отправка данных…</string>
+    <string name="id_capture_upload_error_quit_title">Похоже, возникли какие-то неполадки</string>
+    <string name="id_capture_upload_error_quit_content">Вернитесь через некоторое время.</string>
+    <string name="id_capture_upload_error_quit_button_text">Готово</string>
+    <string name="id_capture_upload_error_retry_title">Похоже, возникли какие-то неполадки</string>
+    <string name="id_capture_upload_error_retry_button_text">Повторить попытку</string>
+    <string name="string_facial_capture_quit_title">Вы уверены\?</string>
+    <string name="string_facial_capture_quit_content">Если вы отмените платеж, нам понадобится до %1$s ч., чтобы проверить ваш перевод.</string>
+    <string name="string_facial_capture_quit_button_cancel">ОТМЕНИТЕ И ПОДОЖДИТЕ</string>
+    <string name="string_facial_capture_quit_button_continue">Продолжить</string>
+</resources>
