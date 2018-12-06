@@ -47,4 +47,5 @@
     <string name="compliance_document_not_supported_message">Log into your PayPal account on your computer to send us this info.</string>
     <string name="compliance_document_not_supported_button">Done</string>
     <string name="compliance_webview_title">Confirm your Identity</string>
+    <string name="compliance_pambush_test">This is a new Smartling test string.</string>
 </resources>
