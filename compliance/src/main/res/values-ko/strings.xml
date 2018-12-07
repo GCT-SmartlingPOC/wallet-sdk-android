@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="compliance_upload_button_text">사진 찍기</string>
     <string name="compliance_upload_another_optional_button_text">서류 추가(선택사항)</string>
@@ -27,7 +27,8 @@
     <string name="compliance_marshmallow_storage_permission_required">사진을 찍으려면 PayPal이 저장공간에 접근할 수 있도록 허용해 주시기 바랍니다.</string>
     <string name="compliance_error_header">인터넷 연결 안 됨</string>
     <string name="compliance_error_message">전화기가 비행기 모드가 아니고 Wi-Fi 또는 셀룰러 데이터에 연결되어 있는지 확인하세요.</string>
-    <string name="compliance_upload_error_message">장애가 발생한 것 같습니다. 다시 시도해 주세요.</string>
+    <string name="compliance_error_action">OK</string>
+    <string name="compliance_upload_error_message">장애가 발생한 것 같습니다.다시 시도해 주세요.</string>
     <string name="compliance_progress_bar_alert_message">서류가 아직 업로드 중입니다…</string>
     <string name="compliance_progress_bar_alert_continue_action">계속</string>
     <string name="compliance_progress_bar_alert_cancel_action">취소</string>
@@ -36,7 +37,7 @@
     <string name="compliance_no_of_tasks_approved">서류 승인됨: %1$s</string>
     <string name="compliance_rejected_reason_wrong_document">잘못된 정보를 보내신 것 같습니다. </string>
     <string name="compliance_rejected_reason_not_requested_information">잘못된 정보를 보내신 것 같습니다. </string>
-    <string name="compliance_rejected_reason_not_legible">보내 주신 서류를 검토하기 어렵습니다. 보다 명확한 사진을 보내주시겠어요\?</string>
+    <string name="compliance_rejected_reason_not_legible">보내 주신 서류를 검토하기 어렵습니다.보다 명확한 사진을 보내주시겠어요?</string>
     <string name="compliance_rejected_reason_check_mail">서류가 승인되지 않은 이유에 대한 세부정보를 이메일로 보내드렸습니다.</string>
     <string name="compliance_task_fetch_error_title">죄송합니다.</string>
     <string name="compliance_task_fetch_error_message">저희 쪽에 장애가 발생한 것 같습니다. 잠시 후에 다시 시도해 주세요.</string>
@@ -47,4 +48,5 @@
     <string name="compliance_document_not_supported_message">컴퓨터에서 PayPal 계정에 로그인해 이 정보를 보내 주세요.</string>
     <string name="compliance_document_not_supported_button">완료</string>
     <string name="compliance_webview_title">본인 확인</string>
+    <string name="compliance_pambush_test">이것은 새로운 스마트 링 테스트 문자열 부품 번호 3입니다.</string>
 </resources>
