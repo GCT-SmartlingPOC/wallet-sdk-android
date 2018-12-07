@@ -1,45 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="facialcapture_camera_permission_title">권한 이유</string>
-    <string name="facialcapture_camera_permission_rationale">얼굴 사진을 찍기 위해 카메라 액세스 권한이 필요합니다.</string>
-    <string name="facialcapture_auto_mode_tutorial_tts">타원 가운데 얼굴을 맞추고 눈을 깜박일 준비를 합니다.</string>
+
+    <string name="facialcapture_camera_permission_title">사용 권한 이유</string>
+    <string name="facialcapture_camera_permission_rationale">얼굴 사진을 스냅 하려면 카메라 액세스가 필요 합니다.</string>
+
+    <!--AutoModeTutorialFragment-->
+    <string name="facialcapture_auto_mode_tutorial_tts">당신의 얼굴을 타원형으로 중앙에 두고 깜박일 준비를 하세요.</string>
     <string name="facialcapture_auto_mode_tutorial_button_text">다음</string>
-    <string name="facialcapture_overlay_tts">모자, 스카프, 안경을 착용하지 말고 머리카락이 얼굴을 가리지 않도록 하여 얼굴을 가운데에 맞춥니다. 준비가 되면 눈을 깜박입니다.</string>
+
+    <!-- FacialCaptureOverlayFragment -->
+    <string name="facialcapture_overlay_tts">모자, 스카프, 안경, 헤어 커버 없이 얼굴을 중심으로. 준비가 되 면 깜박임</string>
     <string name="facialcapture_overlay_cancel_button">취소</string>
     <string name="facialcapture_overlay_help_button">도움말</string>
-    <string name="facialcapture_timeout_tts">\"시간이 다 되어 사진을 찍을 수 없습니다...\" 다시 할까요\? 자동 캡처로 할까요, 수동 캡처로 할까요\?</string>
-    <string name="facialcapture_timeout_message_1">얼굴 사진을 얻지 못했습니다.</string>
-    <string name="facialcapture_timeout_message_2">타원 가운데 얼굴을 맞추고 무표정한 상태를 유지합니다. 준비가 되면 눈을 깜박입니다. \n\n 얼굴이 명확히 나와야 하니 모자, 안경, 스카프 등은 착용하지 마세요. 또한, 머리카락이 얼굴을 가리지 않도록 해야 합니다.</string>
+
+    <!-- Timeout Screen -->
+    <string name="facialcapture_timeout_tts">"시간을, 우리는 사진을 찍을 수 없습니다 .... 다시 시도, 자동 캡처 또는 수동 캡처를 수행 하 시겠습니까?"</string>
+    <string name="facialcapture_timeout_message_1">얼굴 사진을 받지 못했습니다.</string>
+    <string name="facialcapture_timeout_message_2">얼굴을 타원형으로 가운데에 두고 중성을 유지 하십시오. 그런 다음 준비가 되 면 깜박입니다. \n\n 우리는 당신의 얼굴을 명확 하 게 볼 필요가 있으므로 모자, 안경 또는 스카프를 착용 하지 마십시오. 또한, 당신의 얼굴을 떨어져 머리를 유지 해야 합니다.</string>
     <string name="facialcapture_timeout_auto_capture">자동 캡처</string>
     <string name="facialcapture_timeout_manual_capture">수동 캡처</string>
     <string name="facialcapture_timeout_auto_capture_button_text">다시 시도</string>
     <string name="facialcapture_timeout_manual_capture_button_text">수동</string>
-    <string name="facialcapture_auto_mode_help_tts">얼굴을 가운데에 맞추고 무표정한 상태로 있다가 준비가 되면 눈을 깜박이세요. 또한 모자, 스카프, 안경을 착용하지 마시고 머리카락이 얼굴을 가리지 않도록 합니다.</string>
-    <string name="facialcapture_auto_mode_help_do_message_first">무표정</string>
-    <string name="facialcapture_auto_mode_help_do_message_second">얼굴을 가운데에 맞추세요.</string>
-    <string name="facialcapture_auto_mode_help_do_message_third">요청 시 눈을 깜박이세요.</string>
-    <string name="facialcapture_auto_mode_help_do_not_message_first">모자, 스카프를 착용하지 마시고 머리카락이 얼굴을 가리지 않도록 하세요.</string>
-    <string name="facialcapture_auto_mode_help_do_not_message_second">안경을 착용하지 마세요.</string>
+
+    <!-- AutoModeHelpFragment -->
+    <string name="facialcapture_auto_mode_help_tts">제발: 얼굴 센터, 중립 얼굴 표정, 준비가 되 면 깜박임. 또한 모자, 스카프, 헤어 커버 얼굴 ... 안경 없음</string>
+    <string name="facialcapture_auto_mode_help_do_title"> </string>
+    <string name="facialcapture_auto_mode_help_do_message_first">중립 얼굴 표정</string>
+    <string name="facialcapture_auto_mode_help_do_message_second">얼굴 중앙에</string>
+    <string name="facialcapture_auto_mode_help_do_message_third">메시지가 표시 되 면 깜박임</string>
+    <string name="facialcapture_auto_mode_help_do_not_title"> </string>
+    <string name="facialcapture_auto_mode_help_do_not_message_first">모자, 스카프, 머리카락이 얼굴을 덮지 않아야 합니다.</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_second">안경 없음</string>
     <string name="facialcapture_auto_mode_help_process_button_text">닫기</string>
     <string name="facialcapture_auto_mode_help_cancel_button_text">취소</string>
-    <string name="facialcapture_manual_mode_help_tts">얼굴을 가운데에 맞추고 무표정한 상태로 모자, 스카프, 안경은 착용하지 말고 머리카락이 얼굴을 가리지 않도록 하세요.</string>
-    <string name="facialcapture_manual_mode_help_do_title">이렇게 하세요.</string>
-    <string name="facialcapture_manual_mode_help_do_message_first">얼굴을 가운데에 맞추세요.</string>
-    <string name="facialcapture_manual_mode_help_do_message_second">무표정</string>
-    <string name="facialcapture_manual_mode_help_do_not_title">또한,</string>
-    <string name="facialcapture_manual_mode_help_do_not_message_first">모자나 스카프를 착용하지 말고 머리카락이 얼굴을 가리지 않도록 하세요...</string>
-    <string name="facialcapture_manual_mode_help_do_not_message_second">안경을 착용하지 마세요.</string>
-    <string name="facialcapture_overlay_message_hold_phone_upright">휴대폰을 똑바로 세워 잡으세요.</string>
-    <string name="facialcapture_overlay_message_face_not_found">얼굴이 인식되지 않습니다.</string>
-    <string name="facialcapture_overlay_message_face_not_frontal">타원 가운데 얼굴을 맞추세요.</string>
-    <string name="facialcapture_overlay_message_eyes_not_found">눈이 인식되지 않습니다.</string>
+
+    <!-- ManualModeHelpFragment -->
+    <string name="facialcapture_manual_mode_help_tts">제발: 당신의 얼굴 센터, 중립 얼굴 표정, 또한, 모자, 스카프, 헤어 커버 얼굴 ... 안경 없음</string>
+    <string name="facialcapture_manual_mode_help_do_title">다음을 수행 하십시오.</string>
+    <string name="facialcapture_manual_mode_help_do_message_first">얼굴 중앙에</string>
+    <string name="facialcapture_manual_mode_help_do_message_second">중립 얼굴 표정</string>
+    <string name="facialcapture_manual_mode_help_do_not_title">또한:</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_first">모자, 스카프, 헤어 커버 얼굴 없음 ...</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_second">안경 없음</string>
+
+    <!-- Guide messages -->
+    <string name="facialcapture_overlay_message_empty" translatable="false"></string>
+    <string name="facialcapture_overlay_message_hold_phone_upright">전화 똑바로 누르고</string>
+    <string name="facialcapture_overlay_message_face_not_found">얼굴이 감지 되지 않음</string>
+    <string name="facialcapture_overlay_message_face_not_frontal">타원형의 가운데 면</string>
+    <string name="facialcapture_overlay_message_eyes_not_found">눈이 감지 되지 않았습니다.</string>
     <string name="facialcapture_overlay_message_face_move_further_away">멀리 이동</string>
-    <string name="facialcapture_overlay_message_face_get_closer">더 가까이 오세요.</string>
-    <string name="facialcapture_overlay_message_poor_image_quality">조명을 더 밝게 하세요.</string>
-    <string name="facialcapture_overlay_message_lighting_fail">조명을 더 밝게 하세요.</string>
-    <string name="facialcapture_overlay_message_sharpness_fail">조명을 그대로 두거나 더 밝게 하세요.</string>
-    <string name="facialcapture_overlay_message_exposure_fail">조명을 더 밝게 하세요.</string>
-    <string name="facialcapture_overlay_message_gray_fail">조명을 더 밝게 하세요.</string>
-    <string name="facialcapture_overlay_message_blink_now">지금 눈을 깜박이세요.</string>
-    <string name="facialcapture_overlay_message_tap_now">지금 누르세요.</string>
+    <string name="facialcapture_overlay_message_face_get_closer">더 가까이</string>
+    <string name="facialcapture_overlay_message_poor_image_quality">조명 개선</string>
+    <string name="facialcapture_overlay_message_lighting_fail">조명 개선</string>
+    <string name="facialcapture_overlay_message_sharpness_fail">유지 또는 조명 개선</string>
+    <string name="facialcapture_overlay_message_exposure_fail">조명 개선</string>
+    <string name="facialcapture_overlay_message_gray_fail">조명 개선</string>
+    <string name="facialcapture_overlay_message_blink_now">지금 깜박임</string>
+    <string name="facialcapture_overlay_message_tap_now">지금을 누릅니다</string>
 </resources>
