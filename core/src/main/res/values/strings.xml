@@ -24,5 +24,5 @@
 
     <string name="secure_connection_required_title">For your security...</string>
     <string name="secure_connection_required_message">It looks like the network you’re on isn’t secure. Connect to another, more secure one and try again.</string>
-    <string name="secure_connection_required_suggestion">Try Again.</string>
+    <string name="secure_connection_required_suggestion">Please Try Again.</string>
 </resources>
