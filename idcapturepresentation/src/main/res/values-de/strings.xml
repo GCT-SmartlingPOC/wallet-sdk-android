@@ -1,25 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+
+    <!--permission page-->
     <string name="id_capture_permission_title">Kamerazugriff verweigert</string>
-    <string name="id_capture_permission_content">Wir brauchen Zugriff auf Ihre Kamera, um Ihre Identität zu bestätigen.</string>
-    <string name="id_capture_permission_button_text">Kamera-Berechtigungseinstellungen ändern</string>
+    <string name="id_capture_permission_content">Um Ihre Identität zu bestätigen, müssen wir auf Ihre Kamera zugreifen.</string>
+    <string name="id_capture_permission_button_text">Kamerazulassungen ändern</string>
+
+    <!--id capture confirm identity page-->
     <string name="id_capture_identity_title">Identität bestätigen</string>
-    <string name="id_capture_identity_content">Genehmigen Sie uns, die Kamera auf Ihrem Handy zu verwenden. Befolgen Sie dann einige Anweisungen auf dem Bildschirm, um uns ein Foto zur Verfügung zu stellen. \n\n Wir vergleichen Ihr Foto mit Ihrem Ausweis und bestätigen so Ihre Identität. \n\n Zu gültigen Ausweisen zählen amtliche Führerscheine oder Reisepässe.</string>
+    <string name="id_capture_identity_content">Wir bitten um Erlaubnis, die Kamera auf Ihrem Handy zu benutzen. Dann folgen Sie einigen Anweisungen auf dem Bildschirm, um uns ein Bild zu liefern. \n\n Wir vergleichen Ihr Bild mit Ihrer ID, um Ihre Identität zu bestätigen. \n\n Gültige Ausweise sind unter anderem ein staatlich ausgestellter Führerschein oder ein Reisepass.</string>
     <string name="id_capture_identity_button_text">Weiter</string>
-    <string name="facial_capture_identity_title">Noch ein weiterer Schritt</string>
-    <string name="facial_capture_identity_content">Senden Sie uns ein Foto von sich, um Ihre Identität zu bestätigen. Wir vergleichen Ihr Foto mit Ihrem Lichtbildausweis. \n\n Platzieren Sie einfach Ihr Gesicht mittig in das ovale Feld auf der nächsten Seite. Blinzeln Sie, wenn Sie bereit sind.</string>
+
+    <!--facial capture confirm page -->
+    <string name="facial_capture_identity_title">There\'s one more step</string>
+    <string name="facial_capture_identity_content">Wir brauchen ein Bild von euch, um sicherzustellen, dass es wirklich Sie sind. Wir vergleichen Ihr Bild mit Ihrem Lichtbildausweis. \n\n Zentrvieren Sie einfach Ihr Gesicht im Oval auf dem nächsten Bildschirm und blinzeln Sie, wenn Sie bereit sind.</string>
     <string name="facial_capture_identity_button_text">Weiter</string>
-    <string name="document_capture_identity_title">Noch ein weiterer Schritt</string>
-    <string name="document_capture_identity_content">Senden Sie uns einen aktuellen Lichtbildausweis, um Ihre Identität zu bestätigen. Wir vergleichen Ihren Lichtbildausweises mit dem Foto, das wir gemacht haben. \n\n Zu gültigen Ausweisen zählen amtliche Führerscheine oder Reisepässe.</string>
+
+    <!--document capture confirm identity page -->
+    <string name="document_capture_identity_title">There\'s one more step</string>
+    <string name="document_capture_identity_content">Wir brauchen einen aktuellen Lichtbildausweis, um sicherzustellen, dass Sie wirklich Sie sind. Wir vergleichen Ihren Lichtbildausweis mit dem Bild, das wir aufgenommen haben. \n\n Gültige Ausweise sind unter anderem ein staatlich ausgestellter Führerschein oder ein Reisepass.</string>
     <string name="document_capture_identity_button_text">Weiter</string>
-    <string name="id_capture_upload_loading_title">Ihre Daten werden gesendet...</string>
-    <string name="id_capture_upload_error_quit_title">Leider ist ein Fehler aufgetreten</string>
-    <string name="id_capture_upload_error_quit_content">Versuchen Sie es bald erneut.</string>
+
+    <!--id capture upload page-->
+    <string name="id_capture_upload_loading_title">Ihre Informationen einreichen ...</string>
+
+    <string name="id_capture_upload_error_quit_title">Es tut uns leid, die Dinge scheinen jetzt nicht zu funktionieren</string>
+    <string name="id_capture_upload_error_quit_content">Schauen Sie in einer Weile zurück.</string>
     <string name="id_capture_upload_error_quit_button_text">Fertig</string>
-    <string name="id_capture_upload_error_retry_title">Leider ist ein Fehler aufgetreten</string>
+
+    <string name="id_capture_upload_error_retry_title">Es tut uns leid, die Dinge scheinen jetzt nicht zu funktionieren</string>
+    <string name="id_capture_upload_error_retry_content"></string>
     <string name="id_capture_upload_error_retry_button_text">Erneut versuchen</string>
-    <string name="string_facial_capture_quit_title">Sind Sie sicher\?</string>
-    <string name="string_facial_capture_quit_content">Wenn Sie abbrechen, brauchen wir bis zu %1$s Stunden, um Ihre Abbuchung zu überprüfen.</string>
-    <string name="string_facial_capture_quit_button_cancel">Abbrechen und warten</string>
+
+    <!--quit dialog-->
+    <string name="string_facial_capture_quit_title">Sind Sie sicher? </string>
+    <string name="string_facial_capture_quit_content">Wenn Sie stornieren, benötigen wir bis zu 1$s Stunden, um Ihren Transfer zu überprüfen.</string>
+    <string name="string_facial_capture_quit_button_cancel">CANCEL &amp;AMP; WAIT</string>
     <string name="string_facial_capture_quit_button_continue">Weiter</string>
 </resources>
