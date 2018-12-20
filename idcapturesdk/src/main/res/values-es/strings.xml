@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="misnap_camera_permission_title_ux2">Motivo del permiso</string>
+    <string name="misnap_camera_permission_rationale_ux2">Se requiere el acceso de una cámara para tomar una foto de su documento.</string>
+    <string name="misnap_video_session_timeout_first_btn_string_ux2">No</string>
+    <string name="misnap_video_session_timeout_second_btn_string_ux2">Volver a intentar</string>
+    <string name="misnap_detailed_failover_title_ux2">No pudimos encontrar una imagen limpia.</string>
+    <string name="misnap_detailed_failover_first_btn_string_ux2">Cancelar captura</string>
+    <string name="misnap_detailed_failover_second_btn_string_ux2">Capturar manualmente</string>
+    <string name="misnap_detailed_failover_third_btn_string_ux2">Reintentar captura automática</string>
+    <string name="misnap_video_help_first_btn_string_ux2">No</string>
+    <string name="misnap_video_help_second_btn_string_ux2">Continuar</string>
+    <string name="misnap_video_ft_second_btn_string_ux2">Continuar</string>
+    <string name="misnap_manual_help_first_btn_string_ux2">No</string>
+    <string name="misnap_manual_help_second_btn_string_ux2">Continuar</string>
+    <string name="misnap_manual_ft_second_btn_string_ux2">Continuar</string>
+    <string name="misnap_multi_tap_first_btn_string_ux2">No</string>
+    <string name="misnap_multi_tap_second_btn_string_ux2">Continuar</string>
+    <string name="misnap_check_front_text_ux2">Anverso del cheque</string>
+    <string name="misnap_check_back_text_ux2">Reverso del cheque</string>
+    <string name="misnap_default_text_ux2"></string>
+    <string name="misnap_bug_message_ux2">Correcto</string>
+    <string name="misnap_auto_capture_not_supported_ux2">Este dispositivo no es compatible con el modo de captura automática. Presione el botón de captura de foto cuando esté listo para capturar una imagen.</string>
+
+    <!-- For MiSnap hint messages -->
+    <string name="misnap_more_light_ux2">Muévase a un área bien iluminada</string>
+    <string name="misnap_less_light_ux2">Demasiado brillante</string>
+    <string name="misnap_hold_steady_ux2">Mantenga el equilibrio</string>
+    <string name="misnap_get_closer_generic_ux2">Acércate</string>
+    <string name="misnap_too_close_generic_ux2">Aléjese lo más posible</string>
+    <string name="misnap_hold_center_generic_ux2">Reduzca el ángulo</string>
+    <string name="misnap_glare_ux2">Reduzca el brillo</string>
+    <string name="misnap_busy_background_ux2">Coloque el documento centrado en un fondo liso</string>
+    <string name="misnap_low_contrast_ux2">Utilice un fondo oscuro</string>
+    <string name="misnap_wrong_doc_generic_ux2">Documento incorrecto</string>
+    <string name="misnap_wrong_doc_check_back_expected_ux2">Voltee el cheque</string>
+    <string name="misnap_wrong_doc_check_front_expected_ux2">Utilice el anverso del cheque</string>
+    <string name="misnap_bad_orientation_ux2">Rotar documento 90 grados</string>
+
+    <string name="misnap_overlay_flash_on_ux2">El flash está encendido</string>
+    <string name="misnap_overlay_flash_off_ux2">El flash está apagado</string>
+    <string name="misnap_overlay_help_ux2">Ayuda</string>
+    <string name="misnap_overlay_cancel_ux2">No</string>
+    <string name="misnap_overlay_capture_ux2">Capturar foto</string>
+    <string name="misnap_manual_capture_please_wait_ux2">Espere, por favor...</string>
+    <string name="misnap_video_ft_message_ux2">Coloque su identificación en una superficie plana y le tomaremos una foto.</string>
+
+    <!-- For optional workflow changes -->
+    <string name="misnap_seamless_failover_ux2">Se cambió a modo de captura manual. Presione el botón Capturar foto cuando esté listo.</string>
+
+
+    <!--Workflow display strings-->
+
+    <string name="misnap_video_help_message_1_check_ux2">Coloque el cheque centrado en una superficie oscura.</string>
+    <string name="misnap_video_help_message_1_license_ux2">Coloque la licencia centrada en una superficie oscura.</string>
+    <string name="misnap_video_help_message_1_passport_ux2">Coloque el pasaporte centrado en una superficie oscura.</string>
+    <string name="misnap_video_help_message_1_document_ux2">Coloque el documento centrado en una superficie oscura.</string>
+    <string name="misnap_video_help_message_2_ux2">Proporcione abundante luz</string>
+    <string name="misnap_video_help_message_3_check_ux2">Alinee el cheque y tomaremos la foto para usted</string>
+    <string name="misnap_video_help_message_3_license_ux2">Alinear licencia y vamos a tomar la foto para usted</string>
+    <string name="misnap_video_help_message_3_passport_ux2">Alinear pasaporte y vamos a tomar la foto para usted</string>
+    <string name="misnap_video_help_message_3_document_ux2">Alinear documento y vamos a tomar la foto para usted</string>
+
+    <string name="misnap_video_tutorial_message_1_check_ux2">Coloque el cheque centrado en una superficie oscura.</string>
+    <string name="misnap_video_tutorial_message_1_license_ux2">Coloque la licencia centrada en una superficie oscura.</string>
+    <string name="misnap_video_tutorial_message_1_passport_ux2">Coloque el pasaporte centrado en una superficie oscura.</string>
+    <string name="misnap_video_tutorial_message_1_document_ux2">Coloque el documento centrado en una superficie oscura.</string>
+    <string name="misnap_video_tutorial_message_2_ux2">Proporcione abundante luz</string>
+    <string name="misnap_video_tutorial_message_3_check_ux2">Alinee el cheque y tomaremos la foto para usted</string>
+    <string name="misnap_video_tutorial_message_3_license_ux2">Alinear licencia y vamos a tomar la foto para usted</string>
+    <string name="misnap_video_tutorial_message_3_passport_ux2">Alinear pasaporte y vamos a tomar la foto para usted</string>
+    <string name="misnap_video_tutorial_message_3_document_ux2">Alinear documento y vamos a tomar la foto para usted</string>
+
+    <!--manual help screen strings-->
+
+    <string name="misnap_manual_help_message_1_document_ux2">Coloque el documento centrado en una superficie oscura.</string>
+    <string name="misnap_manual_help_message_1_check_ux2">Coloque el cheque centrado en una superficie oscura.</string>
+    <string name="misnap_manual_help_message_1_license_ux2">Coloque la licencia centrada en una superficie oscura.</string>
+    <string name="misnap_manual_help_message_1_passport_ux2">Coloque el pasaporte centrado en una superficie oscura.</string>
+    <string name="misnap_manual_help_message_2_ux2">Proporcione abundante luz</string>
+    <string name="misnap_manual_help_message_3_document_ux2">Alinee el documento, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+    <string name="misnap_manual_help_message_3_check_ux2">Alinee el cheque, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+    <string name="misnap_manual_help_message_3_license_ux2">Alinee la licencia, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+    <string name="misnap_manual_help_message_3_passport_ux2">Alinee el pasaporte, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+
+    <string name="misnap_manual_tutorial_message_1_document_ux2">Coloque el documento centrado en una superficie oscura.</string>
+    <string name="misnap_manual_tutorial_message_1_check_ux2">Coloque el cheque centrado en una superficie oscura.</string>
+    <string name="misnap_manual_tutorial_message_1_license_ux2">Coloque la licencia centrada en una superficie oscura.</string>
+    <string name="misnap_manual_tutorial_message_1_passport_ux2">Coloque el pasaporte centrado en una superficie oscura.</string>
+    <string name="misnap_manual_tutorial_message_2_ux2">Proporcione abundante luz</string>
+    <string name="misnap_manual_tutorial_message_3_document_ux2">Coloque su identificación en una superficie plana y tome una foto.</string>
+    <string name="misnap_manual_tutorial_message_3_check_ux2">Alinee el cheque, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+    <string name="misnap_manual_tutorial_message_3_license_ux2">Alinee la licencia, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+    <string name="misnap_manual_tutorial_message_3_passport_ux2">Alinee el pasaporte, mantenga el equilibrio y toque el botón de captura cuando esté listo</string>
+
+    <!-- For wrong document toast -->
+    <string name="misnap_wrong_document_check_front_found_ux2">Voltee el cheque. Se esperaba el reverso del cheque, pero se encontró el anverso de este.</string>
+
+    <!-- Friendly names for failure reason codes, mappedMiSnapAnalyzerResultvent -->
+    <string name="misnap_failure_reason_unknown_ux2">Coloque el documento centrado, con las 4 esquinas visibles</string>
+    <string name="misnap_failure_reason_four_corner_confidence_ux2">Coloque el documento centrado, con las 4 esquinas visibles</string>
+    <string name="misnap_failure_reason_horizontal_min_fill_ux2">Acerque el dispositivo al documento</string>
+    <string name="misnap_failure_reason_min_brightness_ux2">Coloque el documento en un área bien iluminada</string>
+    <string name="misnap_failure_reason_max_brightness_ux2">Coloque el documento en un área con menos luz</string>
+    <string name="misnap_failure_reason_skew_angle_ux2">Mantenga el dispositivo directamente sobre el documento</string>
+    <string name="misnap_failure_reason_sharpness_ux2">Mantenga firme el dispositivo</string>
+    <string name="misnap_failure_reason_min_padding_ux2">Aleje lo más posible el dispositivo del documento</string>
+    <string name="misnap_failure_reason_rotation_angle_ux2">Mantenga el dispositivo directamente sobre el documento</string>
+    <string name="misnap_failure_reason_low_contrast_ux2">Coloque el documento centrado en un fondo oscuro</string>
+    <string name="misnap_failure_reason_busy_background_ux2">Coloque el documento centrado en un fondo liso y despejado</string>
+    <string name="misnap_failure_reason_wrong_doc_generic_ux2">Se presume que es el documento erróneo</string>
+    <string name="misnap_failure_reason_wrong_doc_check_front_ux2">Utilice el anverso del cheque con todos los números visibles</string>
+    <string name="misnap_failure_reason_wrong_doc_check_back_ux2">Voltee el cheque para escanear el reverso</string>
+    <string name="misnap_failure_reason_glare_ux2">Evite el brillo sobre el documento</string>
+
+    <!-- For MiSnap priority hint messages -->
+    <string name="misnap_priority_glare_ux2">Reduzca el brillo</string>
+    <string name="misnap_priority_busy_background_ux2">Utilice un fondo sólido</string>
+    <string name="misnap_priority_low_contrast_ux2">Aumente el contraste</string>
+    <string name="misnap_priority_wrong_doc_generic_ux2">Se presume que es el documento erróneo</string>
+    <string name="misnap_priority_wrong_doc_check_back_expected_ux2">Voltee el cheque</string>
+    <string name="misnap_priority_wrong_doc_check_front_expected_ux2">No se puede encontrar la cuenta o el número de enrutamiento</string>
+
+    <!--overlay screen strings-->
+    <string name="misnap_ghost_image_remittance_ux2">El talón del centro de pago aquí y espera. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_remittance_manual_ux2"><![CDATA[Centre el talón de pago aquí, luego oprima<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_check_ux2"></string>
+    <string name="misnap_ghost_image_check_manual_ux2"></string>
+    <string name="misnap_ghost_image_drivers_license_ux2"></string>
+    <string name="misnap_ghost_image_drivers_license_manual_ux2"></string>
+    <string name="misnap_ghost_image_id_card_ux2"></string>
+    <string name="misnap_ghost_image_id_card_manual_ux2"></string>
+    <string name="misnap_ghost_image_insurance_card_ux2">Tarjeta de seguro central aquí y espera. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_insurance_card_manual_ux2"><![CDATA[Tarjeta de seguro de centro aquí, luego presione<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_vin_manual_ux2"><![CDATA[Centro VIN aquí y luego pulse<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_w2_ux2">Centro W2 aquí y espere. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_w2_manual_ux2"><![CDATA[Centre W2 aquí, luego presione<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_passport_ux2">Centro de pasaporte aquí y esperar. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_passport_manual_ux2"><![CDATA[Centro de pasaporte aquí, luego pulse<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_document_landscape_ux2">Tarjeta central aquí y espere. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_document_landscape_manual_ux2"><![CDATA[Centro de la tarjeta aquí, luego pulse<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_image_document_portrait_ux2">Centrar documento aquí y esperar. \n Vamos a tomar la foto para usted</string>
+    <string name="misnap_ghost_image_document_portrait_manual_ux2"><![CDATA[Centrar documento aquí, luego pulse<br>el botón <b><i>Snap Photo</i></b> cuando esté listo]]></string>
+    <string name="misnap_ghost_barcode_tooltip_ux2">Por favor, escanear el código de barras en la parte posterior de la licencia de conducir</string>
+
+    <string name="flash_on_ux2">Activ.</string>
+    <string name="flash_off_ux2">Desact.</string>
+    <string name="misnap_dont_show_again_ux2">No volver a mostrar</string>
+
+    <!--header layout-->
+    <string name="id_capture_head_title">Confirmar identidad</string>
+
+    <!--video tutorial page -->
+    <string name="id_capture_video_tutorial_button">Siguiente</string>
+
+    <!--video help page -->
+    <string name="id_capture_video_help_message">@string/misnap_video_ft_message_ux2</string>
+    <string name="id_capture_video_help_button">Cerrar</string>
+
+    <!--video manual page -->
+    <string name="id_capture_manual_help_message">Coloque su identificación en una superficie plana y tome una foto.</string>
+    <string name="id_capture_manual_help_button">Cerrar</string>
+
+    <!--video detail_failOver page -->
+    <string name="id_capture_fail_over_title">No recibimos una foto de su identificación</string>
+    <string name="id_capture_fail_over_content">Coloque su licencia de conducir sobre una superficie plana y apunte su dispositivo directamente a él. Asegúrese de tener una buena iluminación o encienda el flash. \n\n Mantenga el nivel del dispositivo y manténgalo pulsado, y toque el icono de la cámara para tomar una foto manualmente.</string>
+    <string name="id_capture_fail_over_button_auto">Vuelva a intentar tomar una foto automática</string>
+    <string name="id_capture_fail_over_button_photo">Tome una foto manualmente</string>
+</resources>
