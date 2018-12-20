@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 PayPal, Inc.
+  ~
+  ~ All rights reserved.
+  ~
+  ~ THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+  ~ KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  ~ IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+  ~ PARTICULAR PURPOSE.
+  -->
+<resources>
+    <string name="device_confirmation_code_error">Verifique su código de confirmación e inténtelo de nuevo o solicite un código nuevo.</string>
+    <string name="device_confirmation_resend_error">No hemos podido enviar el código de confirmación a su número de celular. Inténtelo más tarde.</string>
+    <string name="device_confirmation_code_title">Ingresar el código</string>
+
+    <!-- Onboarding Phone Confirmation -->
+    <string name="onboarding_phone_confirmation_title">Ingrese su número de celular</string>
+    <string name="onboarding_phone_confirmation_select_number_send_text_hint">Le enviaremos un mensaje de texto a este número.</string>
+    <string name="onboarding_phone_confirmation_select_number_secondary_prompt">Al continuar, confirma que está autorizado para utilizar este número de teléfono y que acepta recibir mensajes de texto de PayPal. Sujeto al cargo de tarifas de su operador de telefonía.</string>
+    <string name="onboarding_phone_confirmation_code_toolbar_title">Ingrese el código</string>
+    <string name="onboarding_phone_confirmation_code_message_text">Se envió un mensaje de texto a %1$s.</string>
+    <string name="onboarding_phone_confirmation_phone_exist">Inicie sesión en su cuenta o ingrese otro número.</string>
+    <string name="onboarding_phone_confirmation_sms_not_sent_email_option">Ingrese otro número o regístrese con su correo electrónico.</string>
+
+    <string name="onboarding_phone_confirmation_error_title">Inténtelo de nuevo</string>
+    <string name="onboarding_phone_confirmation_error_phone_exist">Parece que el número ya está en uso.</string>
+    <string name="onboarding_phone_confirmation_error_sms_not_sent">Lo sentimos, no podemos enviar un mensaje de texto a este número.</string>
+    <string name="onboarding_phone_confirmation_error_trouble_signup">¿Tiene problemas con el código?</string>
+    <string name="onboarding_phone_confirmation_error_incorrct_code">Verifique su código e inténtelo de nuevo.</string>
+    <string name="onboarding_phone_confirmation_error_expire_code">El código caducó. Obtenga uno nuevo.</string>
+    <string name="onboarding_phone_confirmation_error_cannot_confirm">Lo sentimos, no podemos confirmar este número de teléfono.</string>
+
+    <string name="onboarding_phone_confirmation_button_label_sign_in">Iniciar sesión</string>
+    <string name="onboarding_phone_confirmation_button_label_continue">Siguiente</string>
+    <string name="onboarding_phone_confirmation_button_singup_email">Regístrese con un correo electrónico</string>
+    <string name="onboarding_phone_confirmation_button_send_again">Enviar un código nuevo</string>
+
+    <string name="onboarding_select_country">Seleccione su país</string>
+
+</resources>
