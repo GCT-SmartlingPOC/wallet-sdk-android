@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+    <!-- Do not adapt, localize -->
+    <string name="title_activity_aries_checkout" translatable="false">AriesCheckoutActivity</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_kmli_decision" translatable="false">KmliDecisionActivity</string>
+    <string name="title_activity_single_payment" translatable="false">SinglePaymentActivity</string>
+    <string name="title_activity_future_payment" translatable="false">FuturePaymentActivity</string>
+    <string name="title_activity_touch_activity_" translatable="false">TouchActivity_</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+    <!--Aries Checkout-->
+    <string name="aries_button_yes">Yes</string>
+    <string name="aries_button_no">No</string>
+    <string name="aries_cancel_transaction_dialog">Are you sure you want to cancel this purchase and go back to the merchant\'s site?</string>
+    <string name="error_message">An error has occurred</string>
+
+    <!-- Future Payment Consent -->
+    <string name="future_payment_consent_header">Future Payments Consent</string>
+    <string name="future_payment_consent_title">%1$s asks that you:</string>
+    <string name="future_payment_consent_approval_bullet"><![CDATA[• Pre-approve your future payments made from your PayPal account without logging in to PayPal each time.]]></string>
+    <string name="future_payment_consent_approval_sub_bullet">PayPal will first use your PayPal balance to pay for purchases. If that doesn\'t cover the total, your bank account, PayPal Credit, debit card, credit card and/or eCheque will be used in that order.</string>
+    <string name="future_payment_consent_profile_sharing_bullet">•  Share contact information</string>
+    <string name="future_payment_consent_profile_sharing_sub_bullet">Full Name, Email address, Address.</string>
+    <string name="future_payment_consent_merchant_bullet"><![CDATA[• Agree to %%1$s\'s <a href=\"%2$s\">privacy policy</a> and <a href=\"%3$s\">user agreement</a>.]]></string>
+    <string name="future_payment_consent_privacy"><![CDATA[PayPal helps to keep your financial information more secure.]]></string>
+    <string name="future_payment_consent_privacy_details"><![CDATA[To remove these permissions, log in to PayPal and go to <b>Profile > Preapproved payments > Log In with PayPal</b>, and simply remove %1$s from the list.]]></string>
+    <string name="future_payment_consent_agree_button_title">Agree</string>
+    <string name="future_payment_consent_decline_button_title">Cancel</string>
+
+    <!--- for test cases-->
+    <string name="top_up_complete">Yup !! Top up was complete !!</string>
+    <string name="top_up_canceled">Ops !! Top up was canceled !!</string>
+
+</resources>
