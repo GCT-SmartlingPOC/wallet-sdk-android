@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="allow">Permitir</string>
+    <string name="cancel">No</string>
+    <string name="deny">Rechazar</string>
+    <string name="dismiss">Descartar</string>
+    <string name="retry">Volver a intentar</string>
+
+    <string name="network_unavailable_title">Lo sentimos</string>
+    <string name="network_unavailable_message">Sin conexión a Internet</string>
+    <string name="network_unavailable_suggestion">Asegúrese de que su teléfono no esté en Modo avión y esté conectado a wifi o datos celulares.</string>
+
+    <string name="service_error_title">Le pedimos disculpas por la espera</string>
+    <string name="service_error_message">Al parecer tenemos problemas para conectarlo en este momento.</string>
+    <string name="service_error_suggestion">Inténtelo de nuevo en unos instantes.</string>
+
+    <string name="data_transaction_canceled_title">Lo sentimos</string>
+    <string name="data_transaction_canceled_message">Parece que canceló su solicitud antes de que lo pudiéramos completar.</string>
+    <string name="data_transaction_canceled_suggestion">¿Desea intentar de nuevo?</string>
+
+    <string name="unknown_title">Lo sentimos</string>
+    <string name="unknown_message">Tenemos problemas para procesar su solicitud en este momento.</string>
+    <string name="unknown_suggestion">Inténtelo de nuevo en unos instantes y, si el problema persiste, comuníquenoslo.</string>
+
+    <string name="secure_connection_required_title">Por su seguridad...</string>
+    <string name="secure_connection_required_message">La red a la que está conectado no es segura.Conéctese a otra red más segura y vuelva a intentarlo.</string>
+    <string name="secure_connection_required_suggestion">Inténtelo de nuevo.</string>
+    <string name="new_test_string_001">Esto es prueba de actualización de secuencia 001 004.</string>
+</resources>
