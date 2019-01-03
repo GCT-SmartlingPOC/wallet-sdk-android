@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+    <!-- Account Credentials Challenge -->
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_email_phone">Nº de teléfono</string>
+    <string name="hint_login_method_phone">Probar con el teléfono</string>
+    <string name="hint_login_method_email">Utilizar el correo electrónico en su lugar</string>
+    <string name="hint_password_pin">Contraseña o NIP</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="signup_link_text">¿Nuevo usuario de PayPal?Regístrese</string>
+    <string name="login_option_phone_text">Utilizar el número de teléfono en su lugar</string>
+    <string name="login_option_email_text">Utilizar el correo electrónico en su lugar</string>
+    <string name="forgot_password_link_text">¿La ha olvidado?</string>
+    <string name="credentials_error_message">Verifique su información e inténtelo de nuevo.</string>
+    <string name="hint_remembered_pin_login">Ingresar NIP</string>
+    <string name="okay">ACEPTAR</string>
+    <string name="login_link_text">Iniciar sesión</string>
+    <string name="content_description_paypal_logo_text">Inicie sesión en PayPal</string>
+    <string name="accessibility_login_options">Opciones de inicio de sesión</string>
+
+    <!-- Login Options -->
+    <string name="login_option_switch_user">Cambiar cuentas</string>
+    <string name="login_option_forgot_password">¿Ha olvidado su contraseña?</string>
+    <string name="login_option_login_with_fingerprint">Utilice su huella digital</string>
+    <string name="login_option_login_with_pin">Utilice su NIP</string>
+    <string name="login_option_login_with_password">Utilice su contraseña</string>
+    <string name="login_option_signup">Abrir una cuenta nueva</string>
+
+    <!-- Enable PIN Consent Page. -->
+    <string name="enable_pin_consent_message">La próxima vez, inicie sesión más rápido con su NIP.</string>
+    <string name="enable_pin_consent_reject_link">Ahora no</string>
+    <string name="enable_pin_consent_accept_link">Utilice su NIP</string>
+    <string name="enable_pin_success_message">Ahora puede iniciar sesión con su NIP</string>
+    <string name="enable_pin_change_pin">Cambiar NIP</string>
+
+    <!-- Numberpad -->
+    <string name="button_one_text">1</string>
+    <string name="button_two_text">2</string>
+    <string name="button_three_text">3</string>
+    <string name="button_four_text">4</string>
+    <string name="button_five_text">5</string>
+    <string name="button_six_text">6</string>
+    <string name="button_seven_text">7</string>
+    <string name="button_eight_text">8</string>
+    <string name="button_nine_text">9</string>
+    <string name="button_decimal_text"> .</string>
+    <string name="button_zero_text">0</string>
+    <string name="button_backspace_text">x</string>
+    <string name="accessibility_numberpad">Teclado numérico</string>
+    <string name="accessibility_backspace">Retroceso</string>
+    <string name="accessibility_decimal_button">Punto decimal</string>
+
+    <!-- Change Pin -->
+    <string name="change_pin_enter_pin_title">Cambiar NIP</string>
+    <string name="change_pin_reenter_pin_title">Confirmar NIP</string>
+    <string name="change_pin_enter_pin_hint">Introduzca un nuevo PIN</string>
+    <string name="change_pin_message">Your PIN can be 4-8 numbers. Make sure you choose one that\\’s hard to guess.</string>
+    <string name="change_pin_minsixdigits_message">Your PIN can be 6-8 numbers. Make sure you choose one that\\’s hard to guess.</string>
+    <string name="change_pin_button_next">Siguiente</string>
+    <string name="change_pin_reenter_pin_hint">Vuelva a ingresar el NIP</string>
+    <string name="change_pin_success_message">Ya puede iniciar sesión utilizando su nuevo NIP</string>
+    <string name="change_pin_link">Cambiar NIP</string>
+    <string name="change_pin_description">Cambiar NIP</string>
+    <string name="change_pin_mismatch">El NIP no coincide.Inténtelo de nuevo.</string>
+    <string name="change_pin_switch_digit_text">Utilice un NIP de 4 a 8 dígitos</string>
+    <string name="change_pin_alert_title">¿Seguro que desea utilizar un NIP de 4-8 dígitos?</string>
+    <string name="change_pin_alert_text">Los NIP de 4 dígitos son fáciles de adivinar y menos seguros</string>
+
+    <!-- Create Pin -->
+    <string name="create_pin_enter_pin_title">Crear un NIP</string>
+    <string name="create_pin_enter_pin_hint">Crear un NIP</string>
+    <string name="create_pin_consent_description_text">La próxima vez, inicie sesión más rápido utilizando su NIP</string>
+    <string name="create_pin_message">Your PIN can be 4-8 numbers. Make sure you choose one that\\’s hard to guess.</string>
+    <string name="create_pin_minsixdigits_message">Your PIN can be 6-8 numbers. Make sure you choose one that\\’s hard to guess.</string>
+    <string name="create_pin_reenter_pin_title">Confirmar NIP</string>
+    <string name="create_pin_reenter_pin_hint">Vuelva a ingresar el NIP</string>
+    <string name="create_pin_success_message">Ahora puede iniciar sesión con su NIP</string>
+    <string name="create_pin_mismatch">El NIP no coincide.Inténtelo de nuevo.</string>
+    <string name="create_pin_consent_message">La próxima vez, inicie sesión más rápido utilizando su NIP</string>
+    <string name="create_pin_consent_reject_link">Ahora no</string>
+    <string name="create_pin_consent_accept_link">Crear un NIP</string>
+    <string name="create_pin_switch_digit_text">Utilice un NIP de 4 a 8 dígitos</string>
+    <string name="create_pin_alert_title">¿Seguro que desea crear un NIP de 4-8 dígitos?</string>
+    <string name="create_pin_alert_text">Los NIP de 4 dígitos son fáciles de adivinar y menos seguros</string>
+    <string name="create_pin_link">Crear NIP</string>
+    <string name="create_pin_description">Crear NIP</string>
+
+    <!--common -->
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <string name="not_now_label">Ahora no</string>
+    <string name="activate_label">Activar</string>
+    <string name="turn_it_on_label">Activar</string>
+
+
+    <!-- 2fa -->
+    <string name="twofa_actionbar_title_security_code">Código de seguridad</string>
+    <string name="twofa_security_code_button_next">Siguiente</string>
+    <string name="twofa_security_code_submit_main_message">Escriba el código que aparece en el mensaje de texto que le enviamos a %1$s.</string>
+    <string name="twofa_security_code_submit_try_again">Volver a enviar el código</string>
+    <string name="twofa_security_code_security_code_hint">Código de seguridad</string>
+    <string name="twofa_phone_number_select_title">Código de seguridad</string>
+    <string name="twofa_phone_number_select_header_message">Le enviaremos un mensaje con un código de seguridad exclusivo. Indíquenos a qué número enviar el mensaje de texto.</string>
+    <string name="twofa_account_locked_title">Su clave de seguridad está bloqueada</string>
+    <string name="twofa_account_locked_message">Lo sentimos, pero no hemos podido confirmar su información. \n\n Para desbloquear su clave de seguridad, pulse Desbloquear. O vaya a su Perfil en el sitio web de PayPal</string>
+    <string name="twofa_account_locked_call_us_message">¿Tiene problemas?</string>
+    <string name="twofa_account_locked_call_us_link"> Llámenos</string>
+    <string name="twofa_account_locked_call_us_help"> para solicitar ayuda</string>
+    <string name="twofa_no_soft_token_title">Ingrese la clave de seguridad de PayPal en su celular</string>
+    <string name="twofa_no_soft_token_message">Lo sentimos, pero no admitimos el antiguo dispositivo de la clave de seguridad de PayPal en la aplicación. Puede obtener una versión digital en su teléfono.con la que obtendrá el mismo nivel de seguridad.</string>
+    <string name="twofa_no_soft_token_register_button_title">Obtenga su nueva clave de seguridad</string>
+    <string name="twofa_no_soft_token_register_link">https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-token</string>
+    <string name="twofa_unlock_button">ACEPTAR</string>
+    <string name="twofa_send_text_message_button">Enviar SMS</string>
+    <string name="twofa_security_code_submit_try_again_sent">¡Enviado!</string>
+    <string name="just_sec">Espere, por favor</string>
+    <string name="auto_information">Verificando automáticamente el código de seguridad del mensaje de texto que enviamos a %1$s.</string>
+    <string name="twofa_unlock_link">https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-token</string>
+
+    <!-- Common Call Us dialog --> 
+    <string name="call_us_info">¿Desea llamar al Servicio de Atención al Cliente de PayPal al</string>
+    <string name="help_desk_contact_number_us">1–855–684–1966?</string>
+    <string name="call_us_title">Llamar</string>
+    <string name="call_us_charges_applicable_for_dialing">Aplican las tarifas estándar de su compañía telefónica, incluidos los cargos por llamadas internacionales.</string>
+    <string name="account_locked_call_us_cancel">No</string>
+    <string name="account_locked_call_us_call">Llamar</string>
+
+    <!-- 2LA-->
+    <string name="twola_dialog_title">La seguridad de su cuenta</string>
+    <string name="twola_dialog_message">Está iniciando sesión desde un dispositivo nuevo.Por favor, confirme que es el titular de esta cuenta para que podamos verificar que se trata de usted.</string>
+    <string name="twola_web_view_title">Confirme su identidad</string>
+    <string name="twola_email_title">Envíenos un correo electrónico</string>
+
+    <!-- Finger print -->
+    <string name="finger_print_link">Asociar huella digital</string>
+    <string name="finger_print_not_now">Ahora no</string>
+    <string name="finger_print_loading">cargando</string> <!-- open question to Product -->
+    <string name="finger_print_section_title">Iniciar sesión con su huella digital</string> <!-- Authenticator : fingerprint_link_title -->
+    <string name="finger_print_section_description">Utilice su huella digital para acceder a su cuenta PayPal de forma más rápida y sencilla.</string> <!-- Authenticator - fingerprint_link_explanation -->
+    <string name="finger_print_success_message">Ahora puede iniciar sesión utilizando su huella digital.</string> <!-- Authenticator : fido_registered_title-->
+    <string name="finger_print_error_title">No se puede confirmar su huella digital</string>
+    <string name="finger_print_error_message">No podemos confirmar su huella digital en este momento.</string>
+    <string name="finger_print_dialog_positive">Volver a intentar</string> <!-- Authenticator : bttn_ok -->
+    <string name="finger_print_dialog_negative">Cancelar</string><!-- Authenticator : Not_now_button_label -->
+    <string name="finger_print_disclaimer">¿Tiene una clave de seguridad?Iniciar sesión con su huella digital es seguro. No se le pedirá que utilice la clave en este dispositivo.</string>
+    <string name="finger_print_fingerprint_disclaimer">Todas las huellas digitales almacenadas en este dispositivo podrán utilizarse para iniciar sesión en su cuenta PayPal.</string>
+    <!-- Android M Finger print -->
+    <string name="native_biometric_cancel">No</string>
+    <string name="native_biometric_status_registration">Confirmar su huella digital ahora</string>
+    <string name="native_biometric_status_authentication">Iniciar sesión con su huella digital</string>
+    <string name="native_biometric_description">Huella digital para PayPal</string>
+    <string name="native_biometric_status_recognized">Huella digital reconocida</string>
+    <string name="native_biometric_status_not_recognized">Huella digital no reconocida.Inténtelo de nuevo.</string>
+
+    <!-- ATO -->
+    <string name="ato_action_deny">No soy yo</string>
+    <string name="ato_action_approve">Sí.</string>
+    <string name="ato_deny_toolbar_title">Cómo proteger su cuenta</string>
+    <string name="ato_call_us_button">Llamar</string>
+    <string name="ato_change_password_button">Cambiar contraseña</string>
+    <string name="ato_alert_approve_message">Gracias por su confirmación.Está todo listo</string>
+
+    <!-- TPD -->
+    <string name="tpd_action_deny">No soy yo</string>
+    <string name="tpd_action_approve">Sí, soy yo</string>
+    <string name="tpd_action_cancel">No</string>
+    <string name="tpd_action_cancel_title">Inicio de sesión cancelado</string>
+    <string name="tpd_action_cancel_message">Acceda a su cuenta PayPal de otra forma.Inicie sesión desde el navegador de su dispositivo.</string>
+
+
+    <!-- ATO Purchase Alert -->
+    <string name="ato_purchase_alert_action_message">¿Está realizando una compra de %1$s en %1$s en este momento?</string>
+    
+    <string name="ato_purchase_alert_deny_message_title">Hemos detenido la compra en %1$s</string>
+    <string name="ato_purchase_alert_deny_message_line1">Si detecta alguna actividad sospechosa en su cuenta, cambie la contraseña o llámenos para obtener ayuda.</string>
+
+    <string name="ato_purchase_alert_before_action_timeout_error_message_title">Hemos detenido una compra de %1$s en %1$s el día %1$s a las %1$s</string>
+    <string name="ato_purchase_alert_before_action_timeout_error_message_line1">Parecía sospechoso, así que nos hemos comunicado inmediatamente con usted. Hemos detenido la compra porque usted no nos respondió.</string>
+    <string name="ato_purchase_alert_before_action_timeout_error_message_line2">Si no reconoce esta compra, cambie su contraseña.</string>
+    <string name="ato_purchase_alert_before_action_timeout_error_message_line3">Si tiene alguna duda, llámenos.</string>
+
+    <string name="ato_purchase_alert_after_action_timeout_error_message_title">Hemos detenido esta compra</string>
+    <string name="ato_purchase_alert_after_action_timeout_error_message_line1">Lo sentimos. Al parecer no la confirmó a tiempo.Intente realizar su compra de nuevo.</string>
+    <string name="ato_purchase_alert_after_action_timeout_error_message_line2">Si detectamos movimientos sospechosos en su cuenta, nos ponemos en contacto con usted inmediatamente para confirmar que es usted quien los está realizando.</string>
+
+    <string name="ato_purchase_alert_2la_hard_failed_message_title">Hemos detenido esta compra</string>
+    <string name="ato_purchase_alert_2la_hard_failed_message_line1">Actualmente hay un problema con su cuenta. Por su seguridad, hemos detenido su compra en %1$s.</string>
+    <string name="ato_purchase_alert_2la_hard_failed_message_line2">Si necesita ayuda, inicie sesión en su cuenta PayPal o llámenos.</string>
+
+    <string name="ato_purchase_alert_deny_confirmed_on_web_message_title">Hemos completado su compra</string>
+    <string name="ato_purchase_alert_deny_confirmed_on_web_message_line1">Al parecer confirmó su compra en línea después de haberle enviado esta notificación.No tiene que hacer nada más.</string>
+    <string name="ato_purchase_alert_deny_confirmed_on_web_message_line2">Si ve algún movimiento sospechoso, cambie la contraseña o llámenos para obtener ayuda.</string>
+
+    <!-- ATO Login Alert -->
+    <string name="ato_login_alert_action_message">¿Está intentando iniciar sesión desde otra computadora o teléfono en este momento?</string>
+
+    <string name="ato_login_alert_deny_message_title">Hemos detenido ese intento de inicio de sesión</string>
+    <string name="ato_login_alert_deny_message_line1">Si detecta alguna actividad sospechosa en su cuenta, cambie la contraseña o llámenos para obtener ayuda.</string>
+
+    <string name="ato_login_alert_before_action_timeout_error_message_title">Hemos detenido un inicio de sesión en su cuenta</string>
+    <string name="ato_login_alert_before_action_timeout_error_message_line1">Nos hemos comunicado con usted porque no reconocimos el teléfono o la computadora. Hemos detenido el inicio de sesión porque usted no nos respondió.</string>
+    <string name="ato_login_alert_before_action_timeout_error_message_line2">Si no fue usted, cambie su contraseña.</string>
+    <string name="ato_login_alert_before_action_timeout_error_message_line3">Si necesita ayuda, llámenos.</string>
+
+    <string name="ato_login_alert_after_action_timeout_error_message_title">Por qué no pudo iniciar sesión</string>
+    <string name="ato_login_alert_after_action_timeout_error_message_line1">Lo sentimos. Al parecer no la confirmó a tiempo.Inténtelo de nuevo.</string>
+    <string name="ato_login_alert_after_action_timeout_error_message_line2">Si detectamos movimientos sospechosos en su cuenta, nos ponemos en contacto con usted inmediatamente para confirmar que es usted quien los está realizando.</string>
+
+    <string name="ato_login_alert_2la_hard_failed_message_title">Hemos detenido un inicio de sesión en %1$s</string>
+    <string name="ato_login_alert_2la_hard_failed_message_line1">Hay un problema con su cuenta, por lo que hemos detenido el inicio de sesión para su seguridad.</string>
+    <string name="ato_login_alert_2la_hard_failed_message_line2">Si necesita ayuda, inicie sesión en su cuenta PayPal desde este dispositivo o llámenos.</string>
+
+    <string name="ato_login_alert_deny_confirmed_on_web_message_title">Ha iniciado sesión</string>
+    <string name="ato_login_alert_deny_confirmed_on_web_message_line1">Al parecer confirmó que estaba iniciando sesión en línea después de haberle enviado esta notificación. No tiene que hacer nada más.</string>
+    <string name="ato_login_alert_deny_confirmed_on_web_message_line2">Si detecta alguna actividad sospechosa en su cuenta, cambie la contraseña o llámenos para obtener ayuda.</string>
+
+    <!-- TPD Alert -->
+    <string name="tpd_login_alert_action_message">¿Está intentando iniciar sesión desde %1$s en este momento?</string>
+    <string name="tpd_login_alert_action_default_device_name">su dispositivo</string>
+
+    <!-- One Touch KMLI -->
+    <string name="stay_logged_in">Mantenga abierta la sesión para comprar con mayor rapidez</string>
+    <string name="kmli_consent_instructions_text_1">•  No necesita ingresar su correo electrónico o contraseña. Al activar One Touch™, iniciará sesión automáticamente cuando realice el pago desde este dispositivo.</string>
+    <string name="kmli_consent_instructions_text_2">•  Revise rápidamente los detalles del pago y el envío para pagar en millones de comercios PayPal.</string>
+    <string name="kmli_consent_instructions_text_3">•  Por su seguridad, le solicitaremos iniciar sesión de forma ocasional, incluida cada vez que actualice su información personal o financiera. No recomendamos utilizar One Touch™ en dispositivos compartidos.Puede desactivar esta función en cualquier momento desde la configuración de PayPal.</string>
+    <string name="kmli_consent_agree_button_title">Activar</string>
+    <string name="kmli_consent_decline_button_title">Ahora no</string>
+    <string name="kmli_expiry_dialog_title">Volver a activar One Touch™</string>
+    <string name="kmli_expiry_dialog_message_text_1">Ya no tendrá que escribir su contraseña cada vez que vaya a hacer una compra desde este dispositivo.</string>
+    <string name="kmli_expiry_dialog_message_text_2">Usted tiene el control, y puede desactivar esta función en cualquier momento.</string>
+    <string name="kmli_expiry_dialog_turn_it_on">Activar</string>
+
+
+    <!-- Redirect Uri Challenge -->
+    <string name="stepup_consent_button_continue">Siguiente</string>
+    <string name="stepup_consent_button_not_now">Ahora no</string>
+
+    <string name="stepup_consent_title">Una rápida verificación de seguridad</string>
+    <string name="stepup_consent_message_line1">Por favor, confirme su dispositivo.Esto nos permite saber que realmente es usted quien está utilizando PayPal y así protegerlo contra el fraude.</string>
+    <string name="stepup_webview_title">Una rápida verificación de seguridad</string>
+    <string name="stepup_failure_title">Llámenos para confirmar su información</string>
+    <string name="stepup_failure_message_line1">Probemos de otra forma. Llámenos y le ayudaremos a configurar su cuenta para que pueda utilizar esta función.</string>
+
+    <string name="cipkyc_consent_title">Confirme su información antes de continuar</string>
+    <string name="cipkyc_consent_message_line1">Proporcione la información requerida para utilizar esta función.</string>
+    <string name="cipkyc_webview_title">Primero confirme su identidad</string>
+    <string name="cipkyc_failure_title">Confirmación de identidad</string>
+    <string name="cipkyc_failure_message_line1">Necesitamos que nos ayude a confirmar su identidad. Visite el Centro de resoluciones en paypal.com para completar el proceso.</string>
+
+    <string name="failure_button_not_now">Ahora no</string>
+    <string name="failure_button_call_us">Llamar</string>
+
+    <!-- Compliance -->
+    <string name="compliance_cip_failure_title">Necesitamos información adicional</string>
+    <string name="compliance_cip_failure_message_line1">Para enviarnos la información, vaya a la sección “Identidad” en su Perfil.</string>
+    <string name="compliance_button_go_to_profile">Ir a Perfil</string>
+
+    <!-- Device Confirmation -->
+    <string name="confirm_phone_not_now">Ahora no</string>
+    <string name="send_text">Enviar SMS</string>
+    <string name="confirm_code_text">Código de confirmación</string>
+    <string name="confirm_code_toolbar_title">Código de confirmación</string>
+    <string name="device_confirmation_success_message">Gracias.Ha confirmado su celular.</string>
+    <string name="device_confirmation_select_number_message_text">Al continuar, confirma que está autorizado para utilizar este número de teléfono y que acepta recibir un SMS.\nSujeto al cargo de tarifas de su operador de telefonía.</string>
+    <string name="device_confirmation_select_number_message_subtext">Sujeto al cargo de tarifas de su operador de telefonía.</string>
+    <string name="device_confirmation_change_number">Utilizar otro número</string>
+    <string name="device_confirmation_code_message_text">Escriba el código de confirmación del SMS que le hemos enviado al %1$s.</string>
+    <string name="device_confirmation_code_resend_again">Volver a enviar el código</string>
+    <string name="device_confirmation_enter_phone_number">Ingrese su número de celular</string>
+
+    <string name="device_confirmation_error_title">Inténtelo de nuevo</string>
+    <string name="device_confirmation_error_message">Se ha producido un error y no hemos podido confirmar su teléfono. Enviaremos otro SMS a %1$s</string>
+    <string name="device_confirmation_error_subtext">Pueden aplicar comisiones por mensajes y datos</string>
+
+    <string name="confirm_phone_consent_continue">Confirmar teléfono</string>
+    <string name="confirm_phone_toolbar_title">Confirme su teléfono</string>
+    <string name="confirm_phone_consent_title_summary">Confirme su teléfono</string>
+    <string name="confirm_phone_consent_description">Hemos realizado actualizaciones en la aplicación y, para poder utilizar algunas de las funciones nuevas, necesitará confirmar su teléfono.</string>
+
+    <string name="next_text">Siguiente</string>
+    <string name="skip_text">Cancelar</string>
+    <string name="done_text">Listo</string>
+    <string name="button_label_cancel">No</string>
+    <string name="button_label_continue">Continuar</string>
+
+    <!-- Doesn't need adaptation -->
+    <string name="login_in_progress_placeholder" translatable="false"> </string>
+    <string name="circle_image">Imagen circular</string>
+    <string name="list_item">artículo</string>
+
+    <!-- Trusted Primary Device -->
+    <string name="tpd_action_alert_title_summary">Aprobar solicitud de inicio de sesión</string>
+    <string name="tpd_action_alert_sub_title">¿Está intentando iniciar sesión en su cuenta PayPal?</string>
+    <string name="tpd_action_footer_not_me_link">No soy yo</string>
+    <string name="tpd_action_footer_ignore_link">Ignorar</string>
+
+    <string name="tpd_login_success_title">Hemos confirmado su indentidad</string>
+    <string name="tpd_login_success_sub_title">Vuelva al navegador para continuar.</string>
+    <string name="tpd_login_success_done_button">Listo</string>
+
+    <string name="tpd_enroll_screen_title">Inicio de sesión con huella digital</string>
+    <string name="tpd_enroll_screen_sub_title">Inicie sesión en su cuenta PayPal fácilmente utilizando su huella digital en este dispositivo.Es una forma más cómoda y segura de acceder a PayPal en línea.</string>
+
+    <string name="tpd_enroll_success_title">¡Comprendo!</string>
+    <string name="tpd_enroll_success_message">Utilice su huella digital en este dispositivo para acceder en línea a su cuenta PayPal.</string>
+    <string name="tpd_try_me_link">Pruébelo ahora</string>
+
+    <string name="tpd_login_deny_turnofftpd_button">Desactivar inicio de sesión web en este dispositivo</string>
+    <string name="tpd_login_deny_message_title">Intento de inicio de sesión cancelado</string>
+    <string name="tpd_login_deny_message_description">If you think there\\’s a problem with your account, go to Settings and change your log in options.</string>
+    <string name="tpd_login_alert_deny_confirmed_on_web_message_line2">If you think there\\’s a problem with your account, go to Settings and change your log in options.</string>
+
+    <string name="tpd_login_deny_security_settings_button">Configuración de seguridad</string>
+    <string name="tpd_login_deny_done_button">Listo</string>
+    <string name="tpd_login_deny_alert_title">Desactivar inicio de sesión web en este dispositivo</string>
+    <string name="tpd_login_deny_alert_description">¿Seguro que desea desactivar el inicio de sesión web en este dispositivo?</string>
+
+    <string name="tpd_login_cancelled_message_title">Inicio de sesión cancelado</string>
+    <string name="tpd_login_cancelled_message_description">Let\\’s log you in another way. Go back to your browser to continue.</string>
+
+    <string name="tpd_login_alert_message_title">Sorry, we can\\’t confirm it\\’s you</string>
+    <string name="tpd_login_alert_message_sub_title">We\\’re having trouble recognizing your fingerprint right now.</string>
+
+    <string name="tpd_login_expired_message_title">We couldn\\’t log you in to the web</string>
+    <string name="tpd_login_expired_message_line1">We didn\\’t receive a response from you so your request timed out.</string>
+    <string name="tpd_login_expired_notMe_button">No soy yo</string>
+    <string name="onboarding_webview_title">Abrir cuenta</string>
+    <string name="password_recovery_webview_title">Recuperación de contraseña</string>
+    <string name="tpd_login_verification_code_title">Seleccione el código que ve en su navegador</string>
+    <string name="tpd_login_verification_code_description">Esto ayuda a Paypal a verificar que se trata de usted.</string>
+
+    <!-- User Preview -->
+    <string name="user_preview_consent_screen_title">Omita el inicio de sesión para ciertas actividades</string>
+    <string name="user_preview_consent_screen_description">¡Buenas noticias!En su dispositivo de confianza podrá acceder a ciertas funciones de la aplicación de PayPal sin tener que iniciar sesión cada vez. ¿Desea activar esta función?</string>
+    <string name="user_preview_consent_screen_description_2">Ahora puede ver su saldo y movimientos, enviar pagos a contactos recientes, realizar compras y más, sin tener que iniciar sesión en cada oportunidad.</string>
+    <string name="user_preview_consent_screen_disclaimer">Por su seguridad, le solicitaremos iniciar sesión de forma ocasional, incluida cada vez que actualice la información financiera o de la cuenta. No recomendamos esta función para dispositivos compartidos.Puede revocar este permiso en cualquier momento en la configuración de PayPal.</string>
+
+    <!-- Bug fix for: PPPLCONSMR-56823 -->
+    <string name="close_label">cerrar</string>
+
+    <!-- Mobile ID  -->
+    <string name="mobile_id_add_email_button_title">Agregar correo electrónico</string>
+    <string name="mobile_id_get_notifications_button_title">Reciba notificaciones</string>
+    <string name="mobile_id_add_alternate_notifications_title">Queremos cerciorarnos de que podremos comunicarnos con usted</string>
+    <string name="mobile_id_add_alternate_notifications_content">Le enviaremos una notificación automática si hay un problema con su cuenta o agregue su correo electrónico para que pueda actualizar su perfil.</string>
+
+
+</resources>

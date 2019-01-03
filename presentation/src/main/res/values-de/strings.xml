@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+
+
+    <!-- Account Credentials Challenge -->
     <string name="hint_email">E-Mail-Adresse</string>
     <string name="hint_email_phone">Handynummer</string>
     <string name="hint_login_method_phone">Stattdessen Handynummer verwenden</string>
@@ -7,29 +10,50 @@
     <string name="hint_password_pin">Passwort oder PIN</string>
     <string name="hint_password">Passwort</string>
     <string name="login_button_text">Einloggen</string>
-    <string name="signup_link_text">Neu bei PayPal\? Jetzt anmelden</string>
+    <string name="signup_link_text">Sie sind neu bei PayPal? Anmelden</string>
     <string name="login_option_phone_text">Handynummer verwenden</string>
     <string name="login_option_email_text">E-Mail-Adresse verwenden</string>
-    <string name="forgot_password_link_text">Vergessen\?</string>
-    <string name="credentials_error_message">Überprüfen Sie Ihre Eingaben und versuchen Sie es erneut.</string>
+    <string name="forgot_password_link_text">Vergessen?</string>
+    <string name="credentials_error_message">Überprüfen Sie Ihre Eingabe und versuchen Sie es erneut.</string>
     <string name="hint_remembered_pin_login">PIN eingeben</string>
+    <string name="okay">OK</string>
     <string name="login_link_text">Einloggen</string>
     <string name="content_description_paypal_logo_text">Bei PayPal einloggen</string>
     <string name="accessibility_login_options">Login-Optionen</string>
+
+    <!-- Login Options -->
     <string name="login_option_switch_user">Konto wechseln</string>
-    <string name="login_option_forgot_password">Passwort vergessen\?</string>
+    <string name="login_option_forgot_password">Passwort vergessen?</string>
     <string name="login_option_login_with_fingerprint">Mit Fingerabdruck einloggen</string>
-    <string name="login_option_login_with_pin">Mit PIN einloggen</string>
-    <string name="login_option_login_with_password">Mit Passwort einloggen</string>
+    <string name="login_option_login_with_pin">Mit PIN</string>
+    <string name="login_option_login_with_password">Mit Passwort</string>
     <string name="login_option_signup">Neues Konto eröffnen</string>
-    <string name="enable_pin_consent_message">Schneller einloggen mit Ihrer PIN</string>
+
+    <!-- Enable PIN Consent Page. -->
+    <string name="enable_pin_consent_message">Loggen Sie sich schneller ein – mit einer PIN.</string>
     <string name="enable_pin_consent_reject_link">Nicht jetzt</string>
     <string name="enable_pin_consent_accept_link">PIN verwenden</string>
-    <string name="enable_pin_success_message">Sie können sich jetzt mit Ihrer PIN einloggen.</string>
+    <string name="enable_pin_success_message">Jetzt können Sie sich mit Ihrer PIN einloggen</string>
     <string name="enable_pin_change_pin">PIN ändern</string>
+
+    <!-- Numberpad -->
+    <string name="button_one_text">1</string>
+    <string name="button_two_text">2</string>
+    <string name="button_three_text">3</string>
+    <string name="button_four_text">4</string>
+    <string name="button_five_text">5</string>
+    <string name="button_six_text">6</string>
+    <string name="button_seven_text">7</string>
+    <string name="button_eight_text">8</string>
+    <string name="button_nine_text">9</string>
+    <string name="button_decimal_text">einverstanden.</string>
+    <string name="button_zero_text">0</string>
+    <string name="button_backspace_text">x</string>
     <string name="accessibility_numberpad">Nummernblock</string>
     <string name="accessibility_backspace">Rücktaste</string>
     <string name="accessibility_decimal_button">Dezimalpunkt</string>
+
+    <!-- Change Pin -->
     <string name="change_pin_enter_pin_title">PIN ändern</string>
     <string name="change_pin_reenter_pin_title">PIN bestätigen</string>
     <string name="change_pin_enter_pin_hint">Neue PIN eingeben</string>
@@ -40,214 +64,289 @@
     <string name="change_pin_success_message">Sie können sich jetzt mit Ihrer neuen PIN einloggen.</string>
     <string name="change_pin_link">PIN ändern</string>
     <string name="change_pin_description">PIN ändern</string>
-    <string name="change_pin_mismatch">Vertippt\? Geben Sie beide Male dieselbe PIN ein.</string>
+    <string name="change_pin_mismatch">Die PINs stimmen nicht überein. Try again.</string>
     <string name="change_pin_switch_digit_text">4-8-stellige PIN verwenden</string>
-    <string name="change_pin_alert_title">Wollen Sie wirklich eine 4-8-stellige PIN verwenden\?</string>
+    <string name="change_pin_alert_title">Wollen Sie wirklich eine 4-8-stellige PIN verwenden?</string>
     <string name="change_pin_alert_text">4-stellige PINs sind leicht zu erraten und daher weniger sicher.</string>
-    <string name="create_pin_enter_pin_title">PIN erstellen</string>
-    <string name="create_pin_enter_pin_hint">PIN erstellen</string>
+
+    <!-- Create Pin -->
+    <string name="create_pin_enter_pin_title">PIN festlegen</string>
+    <string name="create_pin_enter_pin_hint">PIN festlegen</string>
     <string name="create_pin_consent_description_text">Loggen Sie sich schneller ein – mit einer PIN.</string>
     <string name="create_pin_message">Ihre PIN muss 4-8 Ziffern enthalten. Wählen Sie eine, die nicht leicht zu erraten ist.</string>
     <string name="create_pin_minsixdigits_message">Ihre PIN muss 6-8 Ziffern enthalten. Wählen Sie eine, die nicht leicht zu erraten ist.</string>
     <string name="create_pin_reenter_pin_title">PIN bestätigen</string>
     <string name="create_pin_reenter_pin_hint">PIN erneut eingeben</string>
-    <string name="create_pin_success_message">Jetzt können Sie sich mit Ihrer PIN einloggen.</string>
-    <string name="create_pin_mismatch">Die PINs stimmen nicht überein. Versuchen Sie es erneut.</string>
+    <string name="create_pin_success_message">Jetzt können Sie sich mit Ihrer PIN einloggen</string>
+    <string name="create_pin_mismatch">Die PINs stimmen nicht überein. Try again.</string>
     <string name="create_pin_consent_message">Loggen Sie sich schneller ein – mit einer PIN.</string>
     <string name="create_pin_consent_reject_link">Nicht jetzt</string>
-    <string name="create_pin_consent_accept_link">PIN erstellen</string>
+    <string name="create_pin_consent_accept_link">PIN festlegen</string>
     <string name="create_pin_switch_digit_text">4-8-stellige PIN verwenden</string>
-    <string name="create_pin_alert_title">Wollen Sie wirklich eine 4-8-stellige PIN erstellen\?</string>
+    <string name="create_pin_alert_title">Wollen Sie wirklich eine 4-8-stellige PIN erstellen?</string>
     <string name="create_pin_alert_text">4-stellige PINs sind leicht zu erraten und daher weniger sicher.</string>
     <string name="create_pin_link">PIN erstellen</string>
     <string name="create_pin_description">PIN erstellen</string>
+
+    <!--common -->
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
+
     <string name="not_now_label">Nicht jetzt</string>
     <string name="activate_label">Aktivieren</string>
     <string name="turn_it_on_label">Aktivieren</string>
-    <string name="twofa_actionbar_title_security_code">Sicherheitscode</string>
+
+
+    <!-- 2fa -->
+    <string name="twofa_actionbar_title_security_code">Kartenprüfnummer</string>
     <string name="twofa_security_code_button_next">Weiter</string>
     <string name="twofa_security_code_submit_main_message">Geben Sie den Code ein, den wir per SMS an %1$s gesendet haben.</string>
     <string name="twofa_security_code_submit_try_again">Code erneut senden</string>
-    <string name="twofa_security_code_security_code_hint">Sicherheitscode</string>
-    <string name="twofa_phone_number_select_title">Sicherheitscode</string>
-    <string name="twofa_phone_number_select_header_message">Wir senden Ihnen eine SMS mit einem Sicherheitscode. Teilen Sie uns einfach die Nummer mit, an die wir die SMS senden sollen.</string>
+    <string name="twofa_security_code_security_code_hint">Kartenprüfnummer</string>
+    <string name="twofa_phone_number_select_title">Kartenprüfnummer</string>
+    <string name="twofa_phone_number_select_header_message">Wir senden Ihnen eine SMS mit einem eindeutigen Sicherheitscode. Teilen Sie uns einfach die Nummer mit, an die wir die SMS senden sollen.</string>
     <string name="twofa_account_locked_title">Ihr Sicherheitsschlüssel ist gesperrt</string>
-    <string name="twofa_account_locked_message">Wir konnten Ihre Daten nicht bestätigen. \n\n Tippen Sie auf \"Entsperren\", um Ihren Sicherheitsschlüssel zu entsperren. Oder loggen Sie sich auf der PayPal-Website ein und rufen Sie Ihr Profil auf.</string>
-    <string name="twofa_account_locked_call_us_message">Sie brauchen Hilfe\? </string>
+    <string name="twofa_account_locked_message">Wir konnten Ihre Daten nicht bestätigen. \n\n Tippen Sie auf \"Entsperren\", um Ihren Sicherheitsschlüssel zu entsperren. Oder gehen Sie auf der PayPal-Website in Ihr Profil.</string>
+    <string name="twofa_account_locked_call_us_message">Probleme?</string>
     <string name="twofa_account_locked_call_us_link"> Rufen Sie uns an</string>
-    <string name="twofa_account_locked_call_us_help">.</string>
+    <string name="twofa_account_locked_call_us_help"> for help</string>
     <string name="twofa_no_soft_token_title">Ihr Sicherheitsschlüssel auf Ihrem Handy</string>
-    <string name="twofa_no_soft_token_message">Die App unterstützt den alten Sicherheitsschlüssel nicht. Sie können sich aber die neue digitale Version auf Ihr Handy holen. </string>
+    <string name="twofa_no_soft_token_message">Leider wird der alte Sicherheitsschlüssel von der App nicht unterstützt. Sie können sich aber die neue digitale Version auf Ihr Handy holen. Gleiche Sicherheit, weniger Gewicht.</string>
     <string name="twofa_no_soft_token_register_button_title">Neuen Sicherheitsschlüssel anfordern</string>
-    <string name="twofa_send_text_message_button">SMS senden</string>
-    <string name="twofa_security_code_submit_try_again_sent">Code gesendet</string>
-    <string name="just_sec">Einen Moment bitte...</string>
-    <string name="auto_information">Wir überprüfen gerade den Sicherheitscode, den wir an %1$s gesendet haben.</string>
-    <string name="call_us_info">Möchten Sie uns anrufen unter</string>
-    <string name="help_desk_contact_number_us">0800 723 4500\?</string>
+    <string name="twofa_no_soft_token_register_link">https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-token</string>
+    <string name="twofa_unlock_button">OK</string>
+    <string name="twofa_send_text_message_button">Text senden</string>
+    <string name="twofa_security_code_submit_try_again_sent">Gesendet.</string>
+    <string name="just_sec">Bitte warten</string>
+    <string name="auto_information">Der SMS-Sicherheitsschlüssel, den wir an %1$s gesendet haben, wird automatisch überprüft.</string>
+    <string name="twofa_unlock_link">https://www.paypal.com/us/cgi-bin/webscr?cmd=_security-token</string>
+
+    <!-- Common Call Us dialog --> 
+    <string name="call_us_info">Möchten Sie den PayPal-Kundenservice anrufen?</string>
+    <string name="help_desk_contact_number_us">1–855–684–1966?</string>
     <string name="call_us_title">Rufen Sie uns an</string>
-    <string name="call_us_charges_applicable_for_dialing">Sie erreichen uns Mo.-Fr. 8:00 bis 21:30 Uhr und Sa.-So. 9.00 bis 19.30 Uhr. Kostenlos aus allen deutschen Mobilfunk- und Festnetzen. Falls Sie aus dem Ausland anrufen, wählen Sie bitte +353 1 436 9003 (entsprechende Auslandskosten können anfallen).</string>
+    <string name="call_us_charges_applicable_for_dialing">Es fallen die üblichen Gebühren Ihres Mobilfunkanbieters an, einschließlich aller Auslandsgebühren.</string>
     <string name="account_locked_call_us_cancel">Abbrechen</string>
     <string name="account_locked_call_us_call">Anrufen</string>
-    <string name="twola_dialog_title">Bitte helfen Sie uns dabei, Ihr Konto zu schützen</string>
-    <string name="twola_dialog_message">Sie loggen sich mit einem neuen Gerät ein\? Bestätigen Sie, dass Sie der Inhaber dieses Kontos sind, damit wir wissen, dass Sie es sind.</string>
+
+    <!-- 2LA-->
+    <string name="twola_dialog_title">Wir schützen Ihre Daten</string>
+    <string name="twola_dialog_message">Sie loggen sich mit einem neuen Gerät ein? Nehmen Sie sich kurz Zeit und bestätigen Sie Ihre Identität.</string>
     <string name="twola_web_view_title">Identität bestätigen</string>
     <string name="twola_email_title">Senden Sie uns eine E-Mail</string>
+
+    <!-- Finger print -->
     <string name="finger_print_link">Fingerabdruck verknüpfen</string>
     <string name="finger_print_not_now">Nicht jetzt</string>
-    <string name="finger_print_loading">Laden...</string>
-    <string name="finger_print_section_title">Fingerabdruck mit PayPal-Konto verknüpfen</string>
-    <string name="finger_print_section_description">Mit Ihrem Fingerabdruck können Sie sich noch schneller in Ihr PayPal-Konto einloggen.</string>
-    <string name="finger_print_success_message">Ab sofort können Sie sich per Fingerabdruck einloggen.</string>
-    <string name="finger_print_error_title">Wir können Ihren Fingerabdruck nicht bestätigen</string>
+    <string name="finger_print_loading">Laden...</string> <!-- open question to Product -->
+    <string name="finger_print_section_title">Mit Fingerabdruck einloggen</string> <!-- Authenticator : fingerprint_link_title -->
+    <string name="finger_print_section_description">Mit Ihrem Fingerabdruck können Sie sich noch schneller in Ihr PayPal-Konto einloggen.</string> <!-- Authenticator - fingerprint_link_explanation -->
+    <string name="finger_print_success_message">Ab jetzt können Sie sich mit Ihrem Fingerabdruck einloggen.</string> <!-- Authenticator : fido_registered_title-->
+    <string name="finger_print_error_title">Wir können Ihren Fingerabdruck nicht bestätigen.</string>
     <string name="finger_print_error_message">Wir können Ihren Fingerabdruck zurzeit nicht bestätigen.</string>
-    <string name="finger_print_dialog_positive">Erneut versuchen</string>
-    <string name="finger_print_dialog_negative">Überspringen</string>
-    <string name="finger_print_disclaimer">Haben Sie einen Sicherheitsschlüssel\? Den brauchen Sie nicht, wenn Sie sich mit Ihrem Fingerabdruck auf diesem Gerät einloggen.</string>
+    <string name="finger_print_dialog_positive">Erneut versuchen</string> <!-- Authenticator : bttn_ok -->
+    <string name="finger_print_dialog_negative">Überspringen</string><!-- Authenticator : Not_now_button_label -->
+    <string name="finger_print_disclaimer">Security Key folks! Logging in with your fingerprint is secure. You won\'t be asked to use your key on this device.</string>
     <string name="finger_print_fingerprint_disclaimer">Mit allen auf diesem Gerät gespeicherten Fingerabdrücken kann sich in Ihr PayPal-Konto eingeloggt werden.</string>
+    <!-- Android M Finger print -->
     <string name="native_biometric_cancel">Abbrechen</string>
     <string name="native_biometric_status_registration">Fingerabdruck jetzt bestätigen</string>
     <string name="native_biometric_status_authentication">Mit Fingerabdruck einloggen</string>
     <string name="native_biometric_description">Fingerabdruck für PayPal</string>
     <string name="native_biometric_status_recognized">Fingerabdruck erkannt</string>
-    <string name="native_biometric_status_not_recognized">Fingerabdruck wurde nicht erkannt. Versuchen Sie es erneut.</string>
+    <string name="native_biometric_status_not_recognized">Fingerabdruck wurde nicht erkannt. Try again.</string>
+
+    <!-- ATO -->
     <string name="ato_action_deny">Das bin nicht ich</string>
     <string name="ato_action_approve">Ja</string>
-    <string name="ato_deny_toolbar_title">Zu Ihrer Sicherheit</string>
-    <string name="ato_call_us_button">PayPal anrufen</string>
+    <string name="ato_deny_toolbar_title">Wir schützen Ihr Konto</string>
+    <string name="ato_call_us_button">Rufen Sie uns an</string>
     <string name="ato_change_password_button">Passwort ändern</string>
     <string name="ato_alert_approve_message">Vielen Dank für die Bestätigung. Sie können loslegen.</string>
+
+    <!-- TPD -->
     <string name="tpd_action_deny">Nicht ich</string>
     <string name="tpd_action_approve">Ja, das bin ich</string>
     <string name="tpd_action_cancel">Abbrechen</string>
     <string name="tpd_action_cancel_title">Login abgebrochen</string>
     <string name="tpd_action_cancel_message">Loggen Sie sich auf eine andere Weise ein. Öffnen Sie dazu den Browser auf Ihrem Gerät.</string>
-    <string name="ato_purchase_alert_action_message">Möchten Sie gerade %1$s an %2$s zahlen\?</string>
-    <string name="ato_purchase_alert_deny_message_title">Wir haben die Zahlung an %1$s gestoppt</string>
+
+
+    <!-- ATO Purchase Alert -->
+    <string name="ato_purchase_alert_action_message">Wollen Sie gerade einen Einkauf über %1$s bei %1$s bezahlen?</string>
+    
+    <string name="ato_purchase_alert_deny_message_title">Wir haben den Einkauf bei %1$s gestoppt</string>
     <string name="ato_purchase_alert_deny_message_line1">Wenn Ihnen bei Ihrem Konto etwas verdächtig vorkommt, ändern Sie Ihr Passwort oder rufen Sie uns an.</string>
-    <string name="ato_purchase_alert_before_action_timeout_error_message_title">Wir haben eine Zahlung über %1$s an %2$s am %3$s um %4$s gestoppt</string>
-    <string name="ato_purchase_alert_before_action_timeout_error_message_line1">Er kam uns verdächtig vor, weshalb wir Sie sofort kontaktiert haben. Zu Ihrer Sicherheit haben wir die Zahlung gestoppt, da wir nichts von Ihnen gehört haben.</string>
-    <string name="ato_purchase_alert_before_action_timeout_error_message_line2">Wenn Sie von dieser Zahlung nichts wissen, ändern Sie Ihr Passwort.</string>
+
+    <string name="ato_purchase_alert_before_action_timeout_error_message_title">Wir haben einen Einkauf über %1$s bei %1$s am %1$s um %1$s Uhr gestoppt.</string>
+    <string name="ato_purchase_alert_before_action_timeout_error_message_line1">Er kam uns verdächtig vor, weshalb wir Sie sofort kontaktiert haben. Wir haben den Einkauf gestoppt, weil wir nichts von Ihnen gehört haben.</string>
+    <string name="ato_purchase_alert_before_action_timeout_error_message_line2">Wenn Sie von diesem Einkauf nichts wissen, ändern Sie Ihr Passwort.</string>
     <string name="ato_purchase_alert_before_action_timeout_error_message_line3">Wenn Sie noch Fragen haben, rufen Sie uns an.</string>
-    <string name="ato_purchase_alert_after_action_timeout_error_message_title">Wir haben diese Zahlung gestoppt</string>
-    <string name="ato_purchase_alert_after_action_timeout_error_message_line1">Sie haben Ihre Zahlung nicht rechtzeitig bestätigt. Bitte wiederholen Sie den Einkauf.</string>
+
+    <string name="ato_purchase_alert_after_action_timeout_error_message_title">Wir haben diesen Einkauf gestoppt</string>
+    <string name="ato_purchase_alert_after_action_timeout_error_message_line1">. Sie haben leider nicht schnell genug bestätigt. Bitte wiederholen Sie den Einkauf.</string>
     <string name="ato_purchase_alert_after_action_timeout_error_message_line2">Wenn wir verdächtige Aktivitäten auf Ihrem Konto bemerken, fragen wir sofort bei Ihnen nach, ob Sie es sind.</string>
-    <string name="ato_purchase_alert_2la_hard_failed_message_title">Wir haben diese Zahlung gestoppt</string>
-    <string name="ato_purchase_alert_2la_hard_failed_message_line1">Es gibt zurzeit ein Problem mit Ihrem Konto. Zu Ihrer Sicherheit haben wir Ihre Zahlung an %1$s gestoppt.</string>
+
+    <string name="ato_purchase_alert_2la_hard_failed_message_title">Wir haben diesen Einkauf gestoppt</string>
+    <string name="ato_purchase_alert_2la_hard_failed_message_line1">Zurzeit gibt es ein Problem mit Ihrem Konto. Zu Ihrer Sicherheit haben wir Ihren Einkauf bei %1$s gestoppt.</string>
     <string name="ato_purchase_alert_2la_hard_failed_message_line2">Wenn Sie Hilfe brauchen, loggen Sie sich in Ihr PayPal-Konto ein oder rufen Sie uns an.</string>
-    <string name="ato_purchase_alert_deny_confirmed_on_web_message_title">Wir haben Ihre Zahlung abgeschlossen</string>
-    <string name="ato_purchase_alert_deny_confirmed_on_web_message_line1">Sie haben Ihre Zahlung nach unserer Benachrichtigung online bestätigt. Sie müssen nichts weiter tun.</string>
+
+    <string name="ato_purchase_alert_deny_confirmed_on_web_message_title">Wir haben Ihren Einkauf abgeschlossen</string>
+    <string name="ato_purchase_alert_deny_confirmed_on_web_message_line1">Sie haben Ihren Kauf nach unserer Benachrichtigung online bestätigt. Sie müssen nichts weiter tun.</string>
     <string name="ato_purchase_alert_deny_confirmed_on_web_message_line2">Wenn etwas nicht in Ordnung ist, können Sie Ihr Passwort ändern oder uns anrufen.</string>
-    <string name="ato_login_alert_action_message">Versuchen Sie gerade, sich von einem anderen Gerät einzuloggen\?</string>
+
+    <!-- ATO Login Alert -->
+    <string name="ato_login_alert_action_message">Loggen Sie sich gerade von einem anderen Computer oder Handy ein?</string>
+
     <string name="ato_login_alert_deny_message_title">Wir haben diesen Login-Versuch gestoppt</string>
     <string name="ato_login_alert_deny_message_line1">Wenn Ihnen bei Ihrem Konto etwas verdächtig vorkommt, ändern Sie Ihr Passwort oder rufen Sie uns an.</string>
+
     <string name="ato_login_alert_before_action_timeout_error_message_title">Wir haben einen Login in Ihr Konto gestoppt</string>
-    <string name="ato_login_alert_before_action_timeout_error_message_line1">Wir fragen nach, weil wir das Gerät nicht erkannt haben. Als wir nichts von Ihnen gehört haben, haben wir den Login gestoppt.</string>
+    <string name="ato_login_alert_before_action_timeout_error_message_line1">Wir haben bei Ihnen nachgefragt, weil wir das Handy bzw. den Computer nicht erkannt haben. We stopped the login because we didn\'t hear back from you.</string>
     <string name="ato_login_alert_before_action_timeout_error_message_line2">Wenn das nicht Sie waren, ändern Sie Ihr Passwort.</string>
     <string name="ato_login_alert_before_action_timeout_error_message_line3">Wenn Sie Hilfe brauchen, rufen Sie uns an.</string>
+
     <string name="ato_login_alert_after_action_timeout_error_message_title">Warum Sie sich nicht einloggen konnten</string>
-    <string name="ato_login_alert_after_action_timeout_error_message_line1">Sie haben nicht rechtzeitig bestätigt. Versuchen Sie es erneut.</string>
+    <string name="ato_login_alert_after_action_timeout_error_message_line1">. Sie haben leider nicht schnell genug bestätigt. Versuchen Sie es erneut.</string>
     <string name="ato_login_alert_after_action_timeout_error_message_line2">Wenn wir verdächtige Aktivitäten auf Ihrem Konto bemerken, fragen wir sofort bei Ihnen nach, ob Sie es sind.</string>
+
     <string name="ato_login_alert_2la_hard_failed_message_title">Wir haben einen Login bei %1$s gestoppt</string>
-    <string name="ato_login_alert_2la_hard_failed_message_line1">Es gibt zurzeit ein Problem mit Ihrem Konto. Zu Ihrer Sicherheit haben wir den Login gestoppt.</string>
-    <string name="ato_login_alert_2la_hard_failed_message_line2">Wenn Sie Hilfe brauchen, loggen Sie sich auf diesem Gerät in Ihr PayPal-Konto ein oder rufen Sie uns an.</string>
+    <string name="ato_login_alert_2la_hard_failed_message_line1">Zurzeit gibt es ein Problem mit Ihrem Konto, deshalb haben wir zu Ihrer Sicherheit den Login gestoppt.</string>
+    <string name="ato_login_alert_2la_hard_failed_message_line2">Wenn Sie Hilfe brauchen, loggen Sie sich von diesem Gerät aus in Ihr PayPal-Konto ein oder rufen Sie uns an.</string>
+
     <string name="ato_login_alert_deny_confirmed_on_web_message_title">Wir haben Sie eingeloggt</string>
     <string name="ato_login_alert_deny_confirmed_on_web_message_line1">Sie haben nach unserer Benachrichtigung online bestätigt, dass der Login von Ihnen stammt. Sie müssen nichts weiter tun.</string>
     <string name="ato_login_alert_deny_confirmed_on_web_message_line2">Wenn Ihnen bei Ihrem Konto etwas verdächtig vorkommt, ändern Sie Ihr Passwort oder rufen Sie uns an.</string>
-    <string name="tpd_login_alert_action_message">Versuchen Sie gerade, sich von %1$s einzuloggen\?</string>
+
+    <!-- TPD Alert -->
+    <string name="tpd_login_alert_action_message">Versuchen Sie gerade, sich von %1$s einzuloggen?</string>
     <string name="tpd_login_alert_action_default_device_name">Ihr Gerät</string>
+
+    <!-- One Touch KMLI -->
     <string name="stay_logged_in">Eingeloggt bleiben und schneller zahlen</string>
     <string name="kmli_consent_instructions_text_1">•  Sie müssen Ihre E-Mail-Adresse oder Ihr Passwort nicht eingeben. Wenn Sie One Touch™ aktivieren, werden Sie automatisch eingeloggt, wenn Sie auf diesem Gerät bezahlen.</string>
     <string name="kmli_consent_instructions_text_2">•  Prüfen Sie die Versand- und Zahlungsinformationen und bezahlen Sie noch schneller bei Millionen von Händlern.</string>
-    <string name="kmli_consent_instructions_text_3">•  Zu Ihrer Sicherheit müssen Sie gelegentlich Ihr Passwort eingeben. Sie müssen Sie auch immer dann einloggen, wenn Sie in Ihrem PayPal-Konto persönliche Angaben oder Finanzdaten ändern wollen. Aktivieren Sie One Touch™ nicht auf gemeinsam genutzten Geräten. Sie können diese Option jederzeit in den Einstellungen deaktivieren.</string>
+    <string name="kmli_consent_instructions_text_3">•  Zu Ihrer Sicherheit müssen Sie gelegentlich Ihr Passwort eingeben. Sie müssen Sie auch immer dann einloggen, wenn Sie in Ihrem PayPal-Konto persönliche Angaben oder Finanzdaten ändern wollen.Aktivieren Sie One Touch™ nicht auf gemeinsam genutzten Geräten. Sie können diese Option jederzeit in den Einstellungen deaktivieren.</string>
     <string name="kmli_consent_agree_button_title">Aktivieren</string>
     <string name="kmli_consent_decline_button_title">Nicht jetzt</string>
     <string name="kmli_expiry_dialog_title">One Touch™ wieder aktivieren</string>
     <string name="kmli_expiry_dialog_message_text_1">Sparen Sie sich die Eingabe Ihres Passworts, wenn Sie mit diesem Gerät einkaufen.</string>
-    <string name="kmli_expiry_dialog_message_text_2">Sie können diese Funktion jederzeit deaktivieren.</string>
+    <string name="kmli_expiry_dialog_message_text_2">Sie können die Funktion jederzeit wieder deaktivieren.</string>
     <string name="kmli_expiry_dialog_turn_it_on">Aktivieren</string>
+
+
+    <!-- Redirect Uri Challenge -->
     <string name="stepup_consent_button_continue">Weiter</string>
     <string name="stepup_consent_button_not_now">Nicht jetzt</string>
-    <string name="stepup_consent_title">Bestätigen Sie Ihr Gerät</string>
+
+    <string name="stepup_consent_title">Zu Ihrer Sicherheit</string>
     <string name="stepup_consent_message_line1">Bitte bestätigen Sie Ihr Gerät. So wissen wir, dass es wirklich Sie sind, und wir können Sie vor Betrug schützen.</string>
-    <string name="stepup_webview_title">Bestätigen Sie Ihr Gerät</string>
+    <string name="stepup_webview_title">Zu Ihrer Sicherheit</string>
     <string name="stepup_failure_title">Rufen Sie uns an, um Ihre Daten zu bestätigen</string>
     <string name="stepup_failure_message_line1">Wir müssen Ihre Daten anders bestätigen. Rufen Sie uns und wir helfen Ihnen weiter.</string>
+
     <string name="cipkyc_consent_title">Bestätigen Sie Ihre Daten</string>
     <string name="cipkyc_consent_message_line1">Bitte machen Sie noch einige Angaben, die für diese Funktion erforderlich sind.</string>
     <string name="cipkyc_webview_title">Bestätigen Sie zunächst Ihre Identität</string>
     <string name="cipkyc_failure_title">Identitätsprüfung</string>
     <string name="cipkyc_failure_message_line1">Bitte helfen Sie uns, Ihre Identität zu bestätigen. Klicken Sie unter paypal.com auf \"Konfliktlösungen\", um den Vorgang abzuschließen.</string>
+
     <string name="failure_button_not_now">Nicht jetzt</string>
     <string name="failure_button_call_us">Rufen Sie uns an</string>
-    <string name="compliance_cip_failure_title">Wir brauchen noch einige Informationen</string>
+
+    <!-- Compliance -->
+    <string name="compliance_cip_failure_title">Wir brauchen ein paar mehr Informationen</string>
     <string name="compliance_cip_failure_message_line1">Klicken Sie in Ihrem Profil auf \"Identität\" und senden Sie uns die Informationen.</string>
     <string name="compliance_button_go_to_profile">Zum Profil</string>
+
+    <!-- Device Confirmation -->
     <string name="confirm_phone_not_now">Nicht jetzt</string>
-    <string name="send_text">SMS senden</string>
+    <string name="send_text">Text senden</string>
     <string name="confirm_code_text">Bestätigungscode</string>
     <string name="confirm_code_toolbar_title">Bestätigungscode</string>
-    <string name="device_confirmation_success_message">Sie haben Ihre Handynummer bestätigt.</string>
-    <string name="device_confirmation_select_number_message_text">Indem Sie fortfahren, bestätigen Sie, dass dies Ihre Handynummer ist, und stimmen zu, eine SMS zu empfangen.\nEs können die üblichen Mobilfunkgebühren anfallen.</string>
+    <string name="device_confirmation_success_message">Vielen Dank! Sie haben Ihre Telefonnummer bestätigt.</string>
+    <string name="device_confirmation_select_number_message_text">Wenn Sie fortfahren, bestätigen Sie, dass Sie zur Nutzung dieser Telefonnummer berechtigt und mit dem Empfang von SMS einverstanden sind. Es können die üblichen Mobilfunkgebühren anfallen.</string>
     <string name="device_confirmation_select_number_message_subtext">Es können die üblichen Mobilfunkgebühren anfallen.</string>
     <string name="device_confirmation_change_number">Andere Handynummer verwenden</string>
     <string name="device_confirmation_code_message_text">Geben Sie den Bestätigungscode ein, den wir per SMS an %1$s gesendet haben.</string>
     <string name="device_confirmation_code_resend_again">Code erneut senden</string>
     <string name="device_confirmation_enter_phone_number">Handynummer eingeben</string>
+
     <string name="device_confirmation_error_title">Erneut versuchen</string>
     <string name="device_confirmation_error_message">Es ist ein Fehler aufgetreten, und wir konnten Ihre Telefonnummer nicht bestätigen. Wir senden Ihnen erneut eine SMS an %1$s.</string>
     <string name="device_confirmation_error_subtext">Möglicherweise fallen Gebühren für SMS oder Datenübertragung an</string>
+
     <string name="confirm_phone_consent_continue">Bestätigen</string>
-    <string name="confirm_phone_toolbar_title">Handynr. bestätigen</string>
+    <string name="confirm_phone_toolbar_title">Telefonnummer bestätigen</string>
     <string name="confirm_phone_consent_title_summary">Handynummer bestätigen</string>
-    <string name="confirm_phone_consent_description">Wir haben die App aktualisiert. Nur noch Handynummer bestätigen und Sie können alle neuen Funktionen nutzen.</string>
+    <string name="confirm_phone_consent_description">Wir haben die App weiter verbessert. Bestätigen Sie Ihre Handynummer, um alle neuen Funktionen nutzen zu können.</string>
+
     <string name="next_text">Weiter</string>
     <string name="skip_text">Überspringen</string>
     <string name="done_text">Fertig</string>
     <string name="button_label_cancel">Abbrechen</string>
     <string name="button_label_continue">Weiter</string>
+
+    <!-- Doesn't need adaptation -->
+    <string name="login_in_progress_placeholder" translatable="false"> </string>
     <string name="circle_image">Kreisförmiges Bild</string>
     <string name="list_item">Punkt</string>
+
+    <!-- Trusted Primary Device -->
     <string name="tpd_action_alert_title_summary">Login bestätigen</string>
-    <string name="tpd_action_alert_sub_title">Wollen Sie sich gerade bei PayPal einloggen\?</string>
+    <string name="tpd_action_alert_sub_title">Wollen Sie sich gerade bei PayPal einloggen?</string>
     <string name="tpd_action_footer_not_me_link">Das bin nicht ich</string>
     <string name="tpd_action_footer_ignore_link">Ignorieren</string>
+
     <string name="tpd_login_success_title">Das sind Sie!</string>
     <string name="tpd_login_success_sub_title">Gehen Sie zurück zum Browser, um fortzufahren.</string>
     <string name="tpd_login_success_done_button">Fertig</string>
+
     <string name="tpd_enroll_screen_title">Login mit Fingerabdruck</string>
     <string name="tpd_enroll_screen_sub_title">Loggen Sie sich ganz bequem auf diesem Gerät mit Ihrem Fingerabdruck bei PayPal ein. Damit Sie noch sicherer mit PayPal online unterwegs sind.</string>
-    <string name="tpd_enroll_success_title">Fertig!</string>
+
+    <string name="tpd_enroll_success_title">Ok!</string>
     <string name="tpd_enroll_success_message">Jetzt können Sie sich online mit Ihrem Fingerabdruck in Ihr PayPal-Konto einloggen.</string>
     <string name="tpd_try_me_link">Jetzt ausprobieren</string>
+
     <string name="tpd_login_deny_turnofftpd_button">Web-Login auf diesem Gerät deaktivieren</string>
     <string name="tpd_login_deny_message_title">Login-Versuch abgebrochen</string>
     <string name="tpd_login_deny_message_description">Wenn Sie ein Problem mit Ihrem Konto vermuten, ändern Sie in den Einstellungen Ihre Login-Optionen.</string>
     <string name="tpd_login_alert_deny_confirmed_on_web_message_line2">Wenn Sie ein Problem mit Ihrem Konto vermuten, ändern Sie in den Einstellungen Ihre Login-Optionen.</string>
+
     <string name="tpd_login_deny_security_settings_button">Sicherheitseinstellungen</string>
     <string name="tpd_login_deny_done_button">Fertig</string>
     <string name="tpd_login_deny_alert_title">Web-Login auf diesem Gerät deaktivieren</string>
-    <string name="tpd_login_deny_alert_description">Wollen Sie den Web-Login auf diesem Gerät wirklich deaktivieren\?</string>
+    <string name="tpd_login_deny_alert_description">Wollen Sie den Web-Login auf diesem Gerät wirklich deaktivieren?</string>
+
     <string name="tpd_login_cancelled_message_title">Login abgebrochen</string>
     <string name="tpd_login_cancelled_message_description">Loggen Sie sich anders ein. Gehen Sie zurück zum Browser, um fortzufahren.</string>
+
     <string name="tpd_login_alert_message_title">Wir konnten leider nicht bestätigen, dass Sie es sind</string>
     <string name="tpd_login_alert_message_sub_title">Wir erkennen Ihren Fingerabdruck nicht.</string>
+
     <string name="tpd_login_expired_message_title">Wir konnten Sie im Web nicht einloggen</string>
     <string name="tpd_login_expired_message_line1">Da wir keine Antwort von Ihnen erhalten haben, wurden Sie nicht eingeloggt.</string>
     <string name="tpd_login_expired_notMe_button">Nicht ich</string>
-    <string name="onboarding_webview_title">Konto eröffnen</string>
+    <string name="onboarding_webview_title">Konto erstellen</string>
     <string name="password_recovery_webview_title">Passwort zurücksetzen</string>
     <string name="tpd_login_verification_code_title">Wählen Sie den im Browser angezeigten Code</string>
     <string name="tpd_login_verification_code_description">Dadurch kann PayPal Ihre Identität bestätigen.</string>
+
+    <!-- User Preview -->
     <string name="user_preview_consent_screen_title">Für bestimmte Aktivitäten Login überspringen</string>
-    <string name="user_preview_consent_screen_description">Gute Neuigkeiten! Mit Ihrem vertrauenswürdigen Gerät können Sie bestimmte Funktionen der PayPal-App nutzen, ohne sich jedes Mal einzuloggen. Möchten Sie diese Funktion aktivieren\?</string>
+    <string name="user_preview_consent_screen_description">Gute Neuigkeiten! Mit Ihrem vertrauenswürdigen Gerät können Sie bestimmte Funktionen der PayPal-App nutzen, ohne sich jedes Mal einzuloggen. Möchten Sie diese Funktion aktivieren?</string>
     <string name="user_preview_consent_screen_description_2">Sie können jetzt einen Blick auf Ihr Guthaben und Ihre Transaktionen werfen, Geld an Ihre letzten Kontakte senden, Einkäufe tätigen und mehr, ohne sich jedes Mal einzuloggen.</string>
-    <string name="user_preview_consent_screen_disclaimer">Aus Sicherheitsgründen fragen wir Sie gelegentlich nach Ihrem Passwort, zum Beispiel immer dann, wenn Sie Ihre persönlichen oder finanziellen Angaben ändern. Verwenden Sie diese Funktion nicht auf gemeinsam genutzten Geräten. Sie können diese Funktion jederzeit in den PayPal-Einstellungen ausschalten.</string>
+    <string name="user_preview_consent_screen_disclaimer">Aus Sicherheitsgründen bitten wir Sie gelegentlich, sich einzuloggen, zum Beispiel, wenn Sie Ihre persönlichen oder finanziellen Angaben ändern. Aktivieren Sie diese Funktion nicht auf gemeinsam genutzten Geräten.Sie können diese Genehmigung jederzeit in den PayPal-Einstellungen widerrufen.</string>
+
+    <!-- Bug fix for: PPPLCONSMR-56823 -->
     <string name="close_label">Schließen</string>
+
+    <!-- Mobile ID  -->
     <string name="mobile_id_add_email_button_title">E-Mail-Adresse hinzufügen</string>
     <string name="mobile_id_get_notifications_button_title">Benachrichtigungen erhalten</string>
     <string name="mobile_id_add_alternate_notifications_title">Wir sollten sicherstellen, dass wir Sie erreichen können</string>
     <string name="mobile_id_add_alternate_notifications_content">Wenn es ein Problem mit Ihrem Konto gibt, senden wir Ihnen eine Push-Nachricht. Oder fügen Sie Ihre E-Mail-Adresse hinzu, um Ihr Profil zu aktualisieren.</string>
+
+
 </resources>
