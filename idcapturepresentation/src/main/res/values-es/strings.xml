@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!--permission page-->
+    <string name="id_capture_permission_title">Acceso a cámara deNegado</string>
+    <string name="id_capture_permission_content">Para confirmar su identidad, necesitaremos acceder a su cámara.</string>
+    <string name="id_capture_permission_button_text">Cambiar permisos de cámara</string>
+
+    <!--id capture confirm identity page-->
+    <string name="id_capture_identity_title">Confirmar identidad</string>
+    <string name="id_capture_identity_content">Le pediremos permiso para usar la cámara en su teléfono. Luego, usted seguirá algunas instrucciones en pantalla para darnos una foto. \n\n Compararemos su imagen con su identificación para confirmar su identidad. \n\n Los identificadores válidos incluyen una licencia de conducir emitida por el estado o un pasaporte.</string>
+    <string name="id_capture_identity_button_text">Siguiente</string>
+
+    <!--facial capture confirm page -->
+    <string name="facial_capture_identity_title">There\'s one more step</string>
+    <string name="facial_capture_identity_content">Necesitamos una foto tuya para asegurarte de que realmente eres tú. Compararemos su foto con su identificación con foto. \n\n Sólo centra tu cara en el óvalo en la siguiente pantalla y parpadea cuando estés listo.</string>
+    <string name="facial_capture_identity_button_text">Siguiente</string>
+
+    <!--document capture confirm identity page -->
+    <string name="document_capture_identity_title">There\'s one more step</string>
+    <string name="document_capture_identity_content">Necesitamos una identificación con foto actual para asegurarnos de que eres realmente tú. Compararemos tu identificación con la foto que tomamos. \n\n Los identificadores válidos incluyen una licencia de conducir emitida por el estado o un pasaporte.</string>
+    <string name="document_capture_identity_button_text">Siguiente</string>
+
+    <!--id capture upload page-->
+    <string name="id_capture_upload_loading_title">Enviando su información...</string>
+
+    <string name="id_capture_upload_error_quit_title">Lo sentimos, las cosas no parecen estar funcionando en este momento</string>
+    <string name="id_capture_upload_error_quit_content">Vuelve dentro de un rato.</string>
+    <string name="id_capture_upload_error_quit_button_text">Listo</string>
+
+    <string name="id_capture_upload_error_retry_title">Lo sentimos, las cosas no parecen estar funcionando en este momento</string>
+    <string name="id_capture_upload_error_retry_content"></string>
+    <string name="id_capture_upload_error_retry_button_text">Inténtelo de nuevo</string>
+
+    <!--quit dialog-->
+    <string name="string_facial_capture_quit_title">¿Seguro?</string>
+    <string name="string_facial_capture_quit_content">Si cancela, necesitaremos hasta%% 1 $ s horas para revisar su transferencia.</string>
+    <string name="string_facial_capture_quit_button_cancel">Cancelar &amp; esperar</string>
+    <string name="string_facial_capture_quit_button_continue">CONTINUAR</string>
+</resources>
