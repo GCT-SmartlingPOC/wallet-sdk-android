@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="facialcapture_camera_permission_title">Permission reason</string>
+    <string name="facialcapture_camera_permission_rationale">Camera access is required to snap a photo of your face.</string>
+
+    <!--AutoModeTutorialFragment-->
+    <string name="facialcapture_auto_mode_tutorial_tts">Center your face in the oval and get ready to blink</string>
+    <string name="facialcapture_auto_mode_tutorial_button_text">Next</string>
+
+    <!-- FacialCaptureOverlayFragment -->
+    <string name="facialcapture_overlay_tts">Center your face without hats, scarfs, glasses, hair coverage. Blink when ready</string>
+    <string name="facialcapture_overlay_cancel_button">Cancel</string>
+    <string name="facialcapture_overlay_help_button">Help</string>
+
+    <!-- Timeout Screen -->
+    <string name="facialcapture_timeout_tts">"Time's up, we couldn't take your photo…. How would you like to try again, auto capture or take manual capture?"</string>
+    <string name="facialcapture_timeout_message_1">We didn\'t get a photo of your face</string>
+    <string name="facialcapture_timeout_message_2">Make sure to center your face in the oval and keep a neutral expression. Then, blink when you\'re ready. \n\n We need a clear view of your face, so don\'t wear a hat, glasses, or a scarf. Also, make sure to keep your hair off your face.</string>
+    <string name="facialcapture_timeout_auto_capture">Auto Capture</string>
+    <string name="facialcapture_timeout_manual_capture">Take Manual Capture</string>
+    <string name="facialcapture_timeout_auto_capture_button_text">Please try again</string>
+    <string name="facialcapture_timeout_manual_capture_button_text">Manual</string>
+
+    <!-- AutoModeHelpFragment -->
+    <string name="facialcapture_auto_mode_help_tts">Please do: center your face, neutral facial expression, blink when ready. Also no hats, scarfs, hair covering face… no glasses</string>
+    <string name="facialcapture_auto_mode_help_do_title"> </string>
+    <string name="facialcapture_auto_mode_help_do_message_first">Neutral facial expression</string>
+    <string name="facialcapture_auto_mode_help_do_message_second">Center your face</string>
+    <string name="facialcapture_auto_mode_help_do_message_third">Blink when asked</string>
+    <string name="facialcapture_auto_mode_help_do_not_title"> </string>
+    <string name="facialcapture_auto_mode_help_do_not_message_first">No hats, scarves, or hair should cover your face</string>
+    <string name="facialcapture_auto_mode_help_do_not_message_second">No glasses</string>
+    <string name="facialcapture_auto_mode_help_process_button_text">Close</string>
+    <string name="facialcapture_auto_mode_help_cancel_button_text">Cancel</string>
+
+    <!-- ManualModeHelpFragment -->
+    <string name="facialcapture_manual_mode_help_tts">Please do: Center your face, neutral facial expression, also, no hats, scarfs, hair covering face… No glasses</string>
+    <string name="facialcapture_manual_mode_help_do_title">Please DO:</string>
+    <string name="facialcapture_manual_mode_help_do_message_first">Center your face</string>
+    <string name="facialcapture_manual_mode_help_do_message_second">Neutral facial expression</string>
+    <string name="facialcapture_manual_mode_help_do_not_title">Also:</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_first">No hats, scarfs, hair covering face…</string>
+    <string name="facialcapture_manual_mode_help_do_not_message_second">No glasses</string>
+
+    <!-- Guide messages -->
+    <string name="facialcapture_overlay_message_empty" translatable="false"></string>
+    <string name="facialcapture_overlay_message_hold_phone_upright">Hold phone upright</string>
+    <string name="facialcapture_overlay_message_face_not_found">Face not detected</string>
+    <string name="facialcapture_overlay_message_face_not_frontal">Center face in the oval</string>
+    <string name="facialcapture_overlay_message_eyes_not_found">Your eyes were not detected</string>
+    <string name="facialcapture_overlay_message_face_move_further_away">Move farther away</string>
+    <string name="facialcapture_overlay_message_face_get_closer">Get closer</string>
+    <string name="facialcapture_overlay_message_poor_image_quality">Improve lighting</string>
+    <string name="facialcapture_overlay_message_lighting_fail">Improve lighting</string>
+    <string name="facialcapture_overlay_message_sharpness_fail">Hold still or improve lighting</string>
+    <string name="facialcapture_overlay_message_exposure_fail">Improve lighting</string>
+    <string name="facialcapture_overlay_message_gray_fail">Improve lighting</string>
+    <string name="facialcapture_overlay_message_blink_now">Blink now</string>
+    <string name="facialcapture_overlay_message_tap_now">Tap now</string>
+</resources>
